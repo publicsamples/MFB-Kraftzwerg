@@ -1,0 +1,124 @@
+// this file was generated from MFB Kraftzwerg  - Witch.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=36 hikey=36 pitch_keycenter=12 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=433 loop_mode=loop_sustain loop_start=319489 loop_end=358401 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-12-127.aif
+<group>lokey=37 hikey=37 pitch_keycenter=13 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=593 loop_mode=loop_sustain loop_start=229228 loop_end=400103 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-13-127.aif
+<group>lokey=38 hikey=38 pitch_keycenter=14 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=244 loop_mode=loop_sustain loop_start=239926 loop_end=321030 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-14-127.aif
+<group>lokey=39 hikey=39 pitch_keycenter=15 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=470 loop_mode=loop_sustain loop_start=260934 loop_end=376898 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-15-127.aif
+<group>lokey=40 hikey=40 pitch_keycenter=16 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=631 loop_mode=loop_sustain loop_start=312980 loop_end=353978 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-16-127.aif
+<group>lokey=41 hikey=41 pitch_keycenter=17 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=516 end=495982 loop_mode=loop_sustain loop_start=230884 loop_end=372264 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-17-127.aif
+<group>lokey=42 hikey=42 pitch_keycenter=18 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=654 end=509258 loop_mode=loop_sustain loop_start=256860 loop_end=396515 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-18-127.aif
+<group>lokey=43 hikey=43 pitch_keycenter=19 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=460 end=514503 loop_mode=loop_sustain loop_start=248243 loop_end=399969 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-19-127.aif
+<group>lokey=44 hikey=44 pitch_keycenter=20 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=281 end=511346 loop_mode=loop_sustain loop_start=321834 loop_end=388502 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-20-127.aif
+<group>lokey=45 hikey=45 pitch_keycenter=21 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=532 end=512961 loop_mode=loop_sustain loop_start=334381 loop_end=401232 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-21-127.aif
+<group>lokey=46 hikey=46 pitch_keycenter=22 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=603 loop_mode=loop_sustain loop_start=270071 loop_end=401236 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-22-127.aif
+<group>lokey=47 hikey=47 pitch_keycenter=23 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=474 end=514012 loop_mode=loop_sustain loop_start=271513 loop_end=356019 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-23-127.aif
+<group>lokey=48 hikey=48 pitch_keycenter=24 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=265 end=510768 loop_mode=loop_sustain loop_start=278824 loop_end=367796 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-24-127.aif
+<group>lokey=49 hikey=49 pitch_keycenter=25 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=531 end=508681 loop_mode=loop_sustain loop_start=334832 loop_end=398631 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-25-127.aif
+<group>lokey=50 hikey=50 pitch_keycenter=26 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=499 end=508702 loop_mode=loop_sustain loop_start=224894 loop_end=267992 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-26-127.aif
+<group>lokey=51 hikey=51 pitch_keycenter=27 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=540 loop_mode=loop_sustain loop_start=306887 loop_end=351028 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-27-127.aif
+<group>lokey=52 hikey=52 pitch_keycenter=28 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=212 loop_mode=loop_sustain loop_start=347193 loop_end=392741 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-28-127.aif
+<group>lokey=53 hikey=53 pitch_keycenter=29 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=468 loop_mode=loop_sustain loop_start=248770 loop_end=315386 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-29-127.aif
+<group>lokey=54 hikey=54 pitch_keycenter=30 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=429 end=503720 loop_mode=loop_sustain loop_start=289013 loop_end=381229 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-30-127.aif
+<group>lokey=55 hikey=55 pitch_keycenter=31 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=326 end=508737 loop_mode=loop_sustain loop_start=288321 loop_end=369892 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-31-127.aif
+<group>lokey=56 hikey=56 pitch_keycenter=32 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=501 end=510285 loop_mode=loop_sustain loop_start=258329 loop_end=302865 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-32-127.aif
+<group>lokey=57 hikey=57 pitch_keycenter=33 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=467 end=510916 loop_mode=loop_sustain loop_start=261354 loop_end=300883 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-33-127.aif
+<group>lokey=58 hikey=58 pitch_keycenter=34 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=627 loop_mode=loop_sustain loop_start=307899 loop_end=349923 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-34-127.aif
+<group>lokey=59 hikey=59 pitch_keycenter=35 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=211 loop_mode=loop_sustain loop_start=274116 loop_end=391620 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-35-127.aif
+<group>lokey=60 hikey=60 pitch_keycenter=36 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=275 end=511283 loop_mode=loop_sustain loop_start=240366 loop_end=398638 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-36-127.aif
+<group>lokey=61 hikey=61 pitch_keycenter=37 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=658 loop_mode=loop_sustain loop_start=221481 loop_end=263591 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-37-127.aif
+<group>lokey=62 hikey=62 pitch_keycenter=38 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=627 loop_mode=loop_sustain loop_start=305846 loop_end=367213 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-38-127.aif
+<group>lokey=63 hikey=63 pitch_keycenter=39 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=214 loop_mode=loop_sustain loop_start=341282 loop_end=398887 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-39-127.aif
+<group>lokey=64 hikey=64 pitch_keycenter=40 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=303 end=507215 loop_mode=loop_sustain loop_start=236838 loop_end=293738 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-40-127.aif
+<group>lokey=65 hikey=65 pitch_keycenter=41 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=211 loop_mode=loop_sustain loop_start=237227 loop_end=275981 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-41-127.aif
+<group>lokey=66 hikey=66 pitch_keycenter=42 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=691 loop_mode=loop_sustain loop_start=227001 loop_end=342014 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-42-127.aif
+<group>lokey=67 hikey=67 pitch_keycenter=43 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=529 end=515975 loop_mode=loop_sustain loop_start=243500 loop_end=375915 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-43-127.aif
+<group>lokey=68 hikey=68 pitch_keycenter=44 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=307 end=511468 loop_mode=loop_sustain loop_start=320129 loop_end=363662 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-44-127.aif
+<group>lokey=69 hikey=69 pitch_keycenter=45 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=276 end=515004 loop_mode=loop_sustain loop_start=301038 loop_end=370052 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-45-127.aif
+<group>lokey=70 hikey=70 pitch_keycenter=46 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=531 end=515461 loop_mode=loop_sustain loop_start=232930 loop_end=334361 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-46-127.aif
+<group>lokey=71 hikey=71 pitch_keycenter=47 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=563 end=514551 loop_mode=loop_sustain loop_start=242422 loop_end=310792 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-47-127.aif
+<group>lokey=72 hikey=72 pitch_keycenter=48 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=466 end=514506 loop_mode=loop_sustain loop_start=251452 loop_end=334564 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-48-127.aif
+<group>lokey=73 hikey=73 pitch_keycenter=49 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=343 end=512461 loop_mode=loop_sustain loop_start=338882 loop_end=397313 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-49-127.aif
+<group>lokey=74 hikey=74 pitch_keycenter=50 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=214 loop_mode=loop_sustain loop_start=350756 loop_end=399587 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-50-127.aif
+<group>lokey=75 hikey=75 pitch_keycenter=51 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=499 loop_mode=loop_sustain loop_start=285706 loop_end=385674 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-51-127.aif
+<group>lokey=76 hikey=76 pitch_keycenter=52 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=500 end=511932 loop_mode=loop_sustain loop_start=314045 loop_end=401752 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-52-127.aif
+<group>lokey=77 hikey=77 pitch_keycenter=53 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=435 loop_mode=loop_sustain loop_start=326788 loop_end=384266 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-53-127.aif
+<group>lokey=78 hikey=78 pitch_keycenter=54 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=301 end=513481 loop_mode=loop_sustain loop_start=259097 loop_end=391401 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-54-127.aif
+<group>lokey=79 hikey=79 pitch_keycenter=55 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=211 loop_mode=loop_sustain loop_start=249000 loop_end=300124 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-55-127.aif
+<group>lokey=80 hikey=80 pitch_keycenter=56 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=467 loop_mode=loop_sustain loop_start=222022 loop_end=260195 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-56-127.aif
+<group>lokey=81 hikey=81 pitch_keycenter=57 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=526 end=512510 loop_mode=loop_sustain loop_start=300850 loop_end=338619 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-57-127.aif
+<group>lokey=82 hikey=82 pitch_keycenter=58 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=339 loop_mode=loop_sustain loop_start=303677 loop_end=391188 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-58-127.aif
+<group>lokey=83 hikey=83 pitch_keycenter=59 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=278 end=514357 loop_mode=loop_sustain loop_start=248290 loop_end=296395 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-59-127.aif
+<group>lokey=84 hikey=84 pitch_keycenter=60 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=593 end=513427 loop_mode=loop_sustain loop_start=246944 loop_end=355290 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-60-127.aif
+<group>lokey=85 hikey=85 pitch_keycenter=61 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=339 end=514463 loop_mode=loop_sustain loop_start=252982 loop_end=344304 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-61-127.aif
+<group>lokey=86 hikey=86 pitch_keycenter=62 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=180 loop_mode=loop_sustain loop_start=275881 loop_end=369902 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-62-127.aif
+<group>lokey=87 hikey=87 pitch_keycenter=63 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=276 end=516414 loop_mode=loop_sustain loop_start=226086 loop_end=263981 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-63-127.aif
+<group>lokey=88 hikey=88 pitch_keycenter=64 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=79 loop_mode=loop_sustain loop_start=238712 loop_end=279442 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-64-127.aif
+<group>lokey=89 hikey=89 pitch_keycenter=65 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=15717 end=529701 loop_mode=loop_sustain loop_start=364614 loop_end=407794 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-65-127.aif
+<group>lokey=90 hikey=90 pitch_keycenter=66 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=356 end=1627 loop_mode=loop_sustain loop_start=356 loop_end=1626 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-66-127.aif
+<group>lokey=91 hikey=91 pitch_keycenter=67 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=18114 loop_mode=loop_sustain loop_start=241567 loop_end=283915 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-67-127.aif
+<group>lokey=92 hikey=92 pitch_keycenter=68 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=14102 end=167561 loop_mode=loop_sustain loop_start=115952 loop_end=138952 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-68-127.aif
+<group>lokey=93 hikey=93 pitch_keycenter=69 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=18174 end=477138 loop_mode=loop_sustain loop_start=270656 loop_end=338238 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-69-127.aif
+<group>lokey=94 hikey=94 pitch_keycenter=70 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=18114 end=377612 loop_mode=loop_sustain loop_start=218260 loop_end=257326 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-70-127.aif
+<group>lokey=95 hikey=95 pitch_keycenter=71 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=18292 loop_mode=loop_sustain loop_start=328809 loop_end=395088 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-71-127.aif
+<group>lokey=96 hikey=96 pitch_keycenter=72 loop_mode=one_shot pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=12785 loop_mode=loop_sustain loop_start=293682 loop_end=401129 sample=../Audio/MFB Kraftzwerg  - Witch-SAMPLES/Witch-72-127.aif
