@@ -1,4 +1,68 @@
-// this file was generated from Kraftzwerg - Captain of Industry.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Kraftzwerg - Captain of Industry.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=314708 loop_end=360790
+<control>
+default_path=../Audio/Kraftzwerg - Captain of Industry/(2011319 12410)/
+
+<group>        // Kraftzwerg - Captain of Industry
+<region> sample=Kraftzwerg - Captain #71543.aif key=36 lokey=36 hikey=36 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=314708 loop_end=360791
+<region> sample=Kraftzwerg - Captain #71544.aif key=37 lokey=37 hikey=37 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=321431 loop_end=362390
+<region> sample=Kraftzwerg - Captain #71545.aif key=38 lokey=38 hikey=38 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=356393 loop_end=393835
+<region> sample=Kraftzwerg - Captain #71546.aif key=39 lokey=39 hikey=39 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=334190 loop_end=381835
+<region> sample=Kraftzwerg - Captain #71547.aif key=40 lokey=40 hikey=40 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=304955 loop_end=349496
+<region> sample=Kraftzwerg - Captain #71548.aif key=41 lokey=41 hikey=41 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=323859 loop_end=376567
+<region> sample=Kraftzwerg - Captain #71549.aif key=42 lokey=42 hikey=42 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=355757 loop_end=399326
+<region> sample=Kraftzwerg - Captain #7154A.aif key=43 lokey=43 hikey=43 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=357013 loop_end=398095
+<region> sample=Kraftzwerg - Captain #7154B.aif key=44 lokey=44 hikey=44 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=353824 loop_end=391725
+<region> sample=Kraftzwerg - Captain #7154C.aif key=45 lokey=45 hikey=45 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=314738 loop_end=352853
+<region> sample=Kraftzwerg - Captain #7154D.aif key=46 lokey=46 hikey=46 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=320521 loop_end=359479
+<region> sample=Kraftzwerg - Captain #7154E.aif key=47 lokey=47 hikey=47 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=355721 loop_end=396703
+<region> sample=Kraftzwerg - Captain#282F29.aif key=48 lokey=48 hikey=48 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=316104 loop_end=353572
+<region> sample=Kraftzwerg - Captain #71550.aif key=49 lokey=49 hikey=49 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=348147 loop_end=387086
+<region> sample=Kraftzwerg - Captain #71551.aif key=50 lokey=50 hikey=50 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=349439 loop_end=386465
+<region> sample=Kraftzwerg - Captain #71552.aif key=51 lokey=51 hikey=51 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=274811 loop_end=310852
+<region> sample=Kraftzwerg - Captain #71553.aif key=52 lokey=52 hikey=52 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=348830 loop_end=385749
+<region> sample=Kraftzwerg - Captain #71554.aif key=53 lokey=53 hikey=53 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=297325 loop_end=335634
+<region> sample=Kraftzwerg - Captain #71555.aif key=54 lokey=54 hikey=54 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=299863 loop_end=337176
+<region> sample=Kraftzwerg - Captain #71556.aif key=55 lokey=55 hikey=55 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=332581 loop_end=371775
+<region> sample=Kraftzwerg - Captain #71557.aif key=56 lokey=56 hikey=56 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=360412 loop_end=398743
+<region> sample=Kraftzwerg - Captain #71558.aif key=57 lokey=57 hikey=57 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=360418 loop_end=398708
+<region> sample=Kraftzwerg - Captain #71559.aif key=58 lokey=58 hikey=58 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=326822 loop_end=364441
+<region> sample=Kraftzwerg - Captain #7155A.aif key=59 lokey=59 hikey=59 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=346158 loop_end=385186
+<region> sample=Kraftzwerg - Captain #7155B.aif key=60 lokey=60 hikey=60 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=301429 loop_end=341925
+<region> sample=Kraftzwerg - Captain #7155C.aif key=61 lokey=61 hikey=61 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=343500 loop_end=386878
+<region> sample=Kraftzwerg - Captain of Industry-62-127-42VC.aif key=62 lokey=62 hikey=62 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=324828 loop_end=361438
+<region> sample=Kraftzwerg - Captain #7155E.aif key=63 lokey=63 hikey=63 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=357590 loop_end=396332
+<region> sample=Kraftzwerg - Captain #7155F.aif key=64 lokey=64 hikey=64 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=348760 loop_end=385511
+<region> sample=Kraftzwerg - Captain #71560.aif key=65 lokey=65 hikey=65 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=319008 loop_end=359404
+<region> sample=Kraftzwerg - Captain #71561.aif key=66 lokey=66 hikey=66 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=244122 loop_end=282229
+<region> sample=Kraftzwerg - Captain #71562.aif key=67 lokey=67 hikey=67 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=272537 loop_end=310708
+<region> sample=Kraftzwerg - Captain #71563.aif key=68 lokey=68 hikey=68 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=243698 loop_end=279713
+<region> sample=Kraftzwerg - Captain #71564.aif key=69 lokey=69 hikey=69 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=355294 loop_end=392722
+<region> sample=Kraftzwerg - Captain #71565.aif key=70 lokey=70 hikey=70 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=359400 loop_end=396957
+<region> sample=Kraftzwerg - Captain #71566.aif key=71 lokey=71 hikey=71 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=248308 loop_end=285767
+<region> sample=Kraftzwerg - Captain #71567.aif key=72 lokey=72 hikey=72 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=278695 loop_end=319135
+<region> sample=Kraftzwerg - Captain #71568.aif key=73 lokey=73 hikey=73 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=324398 loop_end=364827
+<region> sample=Kraftzwerg - Captain #71569.aif key=74 lokey=74 hikey=74 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=299864 loop_end=338823
+<region> sample=Kraftzwerg - Captain #7156A.aif key=75 lokey=75 hikey=75 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=322346 loop_end=361290
+<region> sample=Kraftzwerg - Captain #7156B.aif key=76 lokey=76 hikey=76 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=318833 loop_end=361405
+<region> sample=Kraftzwerg - Captain #7156C.aif key=77 lokey=77 hikey=77 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=317231 loop_end=362877
+<region> sample=Kraftzwerg - Captain #7156D.aif key=78 lokey=78 hikey=78 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=342961 loop_end=400208
+<region> sample=Kraftzwerg - Captain #7156E.aif key=79 lokey=79 hikey=79 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=353126 loop_end=390569
+<region> sample=Kraftzwerg - Captain #7156F.aif key=80 lokey=80 hikey=80 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=285187 loop_end=324861
+<region> sample=Kraftzwerg - Captain #71570.aif key=81 lokey=81 hikey=81 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=362783 loop_end=401020
+<region> sample=Kraftzwerg - Captain #71571.aif key=82 lokey=82 hikey=82 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=290596 loop_end=329582
+<region> sample=Kraftzwerg - Captain #71572.aif key=83 lokey=83 hikey=83 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=328424 loop_end=368131
+<region> sample=Kraftzwerg - Captain #71573.aif key=84 lokey=84 hikey=84 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=267393 loop_end=307117
+<region> sample=Kraftzwerg - Captain #71574.aif key=85 lokey=85 hikey=85 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=233682 loop_end=273370
+<region> sample=Kraftzwerg - Captain #71575.aif key=86 lokey=86 hikey=86 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=315652 loop_end=353845
+<region> sample=Kraftzwerg - Captain #71576.aif key=87 lokey=87 hikey=87 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=343581 loop_end=401715
+<region> sample=Kraftzwerg - Captain #71577.aif key=88 lokey=88 hikey=88 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=302840 loop_end=344734
+<region> sample=Kraftzwerg - Captain #71578.aif key=89 lokey=89 hikey=89 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=304024 loop_end=393690
+<region> sample=Kraftzwerg - Captain #71579.aif key=90 lokey=90 hikey=90 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=318207 loop_end=382105
+<region> sample=Kraftzwerg - Captain #7157A.aif key=91 lokey=91 hikey=91 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=312685 loop_end=365591
+<region> sample=Kraftzwerg - Captain #7157B.aif key=92 lokey=92 hikey=92 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=266516 loop_end=305472
+<region> sample=Kraftzwerg - Captain #7157C.aif key=93 lokey=93 hikey=93 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=238477 loop_end=388391
+<region> sample=Kraftzwerg - Captain #7157D.aif key=94 lokey=94 hikey=94 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=278102 loop_end=399382
+<region> sample=Kraftzwerg - Captain #7157E.aif key=95 lokey=95 hikey=95 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=298894 loop_end=388510
+<region> sample=Kraftzwerg - Captain #7157F.aif key=96 lokey=96 hikey=96 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=282250 loop_end=367484

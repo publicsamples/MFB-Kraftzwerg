@@ -1,124 +1,68 @@
-// this file was generated from MFB Kraftzwerg  - Organic Lead.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - MFB Kraftzwerg  - Organic Lead.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=295407 loop_end=369229 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-36-127-5RYG.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=222905 loop_end=297661 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-37-127-9MIT.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=283431 loop_end=364366 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-38-127-OMUF.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=316174 loop_end=397051 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-39-127-UOE9.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=233294 loop_end=385820 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-40-127-QRVT.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241827 loop_end=394424 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-41-127-YIOJ.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=248346 loop_end=394799 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-42-127-I4SI.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=209131 loop_end=361693 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-43-127-QISW.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239658 loop_end=326626 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-44-127-7G8O.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=304061 loop_end=390928 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-45-127-18SV.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=308755 loop_end=395778 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-46-127-8HMF.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=209318 loop_end=296675 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-47-127-RFII.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=279369 loop_end=366299 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-48-127-HZVE.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271924 loop_end=359049 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-49-127-EZJB.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=301387 loop_end=388391 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-50-127-KFDV.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285035 loop_end=372051 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-51-127-AFXD.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=210211 loop_end=297313 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-52-127-VUV9.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287274 loop_end=374504 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-53-127-0UV2.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=234117 loop_end=321205 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-54-127-0AG3.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=296412 loop_end=383695 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-55-127-0DRN.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=306889 loop_end=394015 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-56-127-SIM3.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238587 loop_end=325583 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-57-127-KPJ5.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=210066 loop_end=390541 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-58-127-TIBF.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=272302 loop_end=359478 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-59-127-518A.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=228894 loop_end=316060 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-60-127-WGPC.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=273511 loop_end=360636 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-61-127-FGH7.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=296711 loop_end=383709 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-62-127-5V51.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=302404 loop_end=389383 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-63-127-JPTF.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=305696 loop_end=392739 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-64-127-ZT17.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=265423 loop_end=352422 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-65-127-JQ70.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=297593 loop_end=384571 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-66-127-RGVB.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=299297 loop_end=392557 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-67-127-9CVH.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=294877 loop_end=388116 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-68-127-NPYE.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=344415 loop_end=397514 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-69-127-SU6Q.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=334938 loop_end=388057 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-70-127-X2VR.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=215359 loop_end=395836 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-71-127-DT53.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=229295 loop_end=369390 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-72-127-JMSD.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=231620 loop_end=371787 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-73-127-0AGF.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=292423 loop_end=385843 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-74-127-61FS.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=311097 loop_end=364149 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-75-127-4JRE.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=309570 loop_end=362750 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-76-127-WT7X.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=275282 loop_end=328398 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-77-127-3J5M.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=225542 loop_end=265592 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-78-127-UKWN.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=250519 loop_end=291000 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-79-127-3Q1S.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=357293 loop_end=397460 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-80-127-NCMX.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251692 loop_end=292066 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-81-127-WLXG.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=291590 loop_end=344672 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-82-127-C2NX.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=340698 loop_end=393765 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-83-127-8SPA.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285969 loop_end=379306 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-84-127-S8P4.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=293485 loop_end=386883 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-85-127-6TED.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=311677 loop_end=398693 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-86-127-8XIL.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=215893 loop_end=396196 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-87-127-TLJY.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=212260 loop_end=392549 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-88-127-5XU6.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246426 loop_end=286591 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-89-127-0QZE.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257651 loop_end=297811 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-90-127-2H62.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=356917 loop_end=397090 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-91-127-5VU6.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=232875 loop_end=272906 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-92-127-22JH.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287265 loop_end=327338 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-93-127-ZUY0.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=306489 loop_end=346518 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-94-127-O1SL.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=356819 loop_end=397031 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-95-127-1X33.aif
-<group> key=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=356875 loop_end=396867 sample=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/Organic Lead-96-127-O9RX.aif
+<control>
+default_path=../Audio/MFB Kraftzwerg  - Organic Lead-SAMPLES/
+
+<group>        // Organic Lead
+<region> sample=Organic Lead-36-127-5RYG.aif key=36 lokey=36 hikey=36 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=295407 loop_end=369230
+<region> sample=Organic Lead-37-127-9MIT.aif key=37 lokey=37 hikey=37 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=222905 loop_end=297662
+<region> sample=Organic Lead-38-127-OMUF.aif key=38 lokey=38 hikey=38 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=283431 loop_end=364367
+<region> sample=Organic Lead-39-127-UOE9.aif key=39 lokey=39 hikey=39 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=316174 loop_end=397052
+<region> sample=Organic Lead-40-127-QRVT.aif key=40 lokey=40 hikey=40 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=233294 loop_end=385821
+<region> sample=Organic Lead-41-127-YIOJ.aif key=41 lokey=41 hikey=41 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=241827 loop_end=394425
+<region> sample=Organic Lead-42-127-I4SI.aif key=42 lokey=42 hikey=42 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=248346 loop_end=394800
+<region> sample=Organic Lead-43-127-QISW.aif key=43 lokey=43 hikey=43 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=209131 loop_end=361694
+<region> sample=Organic Lead-44-127-7G8O.aif key=44 lokey=44 hikey=44 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=239658 loop_end=326627
+<region> sample=Organic Lead-45-127-18SV.aif key=45 lokey=45 hikey=45 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=304061 loop_end=390929
+<region> sample=Organic Lead-46-127-8HMF.aif key=46 lokey=46 hikey=46 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=308755 loop_end=395779
+<region> sample=Organic Lead-47-127-RFII.aif key=47 lokey=47 hikey=47 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=209318 loop_end=296676
+<region> sample=Organic Lead-48-127-HZVE.aif key=48 lokey=48 hikey=48 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=279369 loop_end=366300
+<region> sample=Organic Lead-49-127-EZJB.aif key=49 lokey=49 hikey=49 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=271924 loop_end=359050
+<region> sample=Organic Lead-50-127-KFDV.aif key=50 lokey=50 hikey=50 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=301387 loop_end=388392
+<region> sample=Organic Lead-51-127-AFXD.aif key=51 lokey=51 hikey=51 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=285035 loop_end=372052
+<region> sample=Organic Lead-52-127-VUV9.aif key=52 lokey=52 hikey=52 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=210211 loop_end=297314
+<region> sample=Organic Lead-53-127-0UV2.aif key=53 lokey=53 hikey=53 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=287274 loop_end=374505
+<region> sample=Organic Lead-54-127-0AG3.aif key=54 lokey=54 hikey=54 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=234117 loop_end=321206
+<region> sample=Organic Lead-55-127-0DRN.aif key=55 lokey=55 hikey=55 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=296412 loop_end=383696
+<region> sample=Organic Lead-56-127-SIM3.aif key=56 lokey=56 hikey=56 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=306889 loop_end=394016
+<region> sample=Organic Lead-57-127-KPJ5.aif key=57 lokey=57 hikey=57 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=238587 loop_end=325584
+<region> sample=Organic Lead-58-127-TIBF.aif key=58 lokey=58 hikey=58 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=210066 loop_end=390542
+<region> sample=Organic Lead-59-127-518A.aif key=59 lokey=59 hikey=59 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=272302 loop_end=359479
+<region> sample=Organic Lead-60-127-WGPC.aif key=60 lokey=60 hikey=60 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=228894 loop_end=316061
+<region> sample=Organic Lead-61-127-FGH7.aif key=61 lokey=61 hikey=61 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=273511 loop_end=360637
+<region> sample=Organic Lead-62-127-5V51.aif key=62 lokey=62 hikey=62 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=296711 loop_end=383710
+<region> sample=Organic Lead-63-127-JPTF.aif key=63 lokey=63 hikey=63 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=302404 loop_end=389384
+<region> sample=Organic Lead-64-127-ZT17.aif key=64 lokey=64 hikey=64 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=305696 loop_end=392740
+<region> sample=Organic Lead-65-127-JQ70.aif key=65 lokey=65 hikey=65 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=265423 loop_end=352423
+<region> sample=Organic Lead-66-127-RGVB.aif key=66 lokey=66 hikey=66 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=297593 loop_end=384572
+<region> sample=Organic Lead-67-127-9CVH.aif key=67 lokey=67 hikey=67 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=299297 loop_end=392558
+<region> sample=Organic Lead-68-127-NPYE.aif key=68 lokey=68 hikey=68 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=294877 loop_end=388117
+<region> sample=Organic Lead-69-127-SU6Q.aif key=69 lokey=69 hikey=69 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=344415 loop_end=397515
+<region> sample=Organic Lead-70-127-X2VR.aif key=70 lokey=70 hikey=70 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=334938 loop_end=388058
+<region> sample=Organic Lead-71-127-DT53.aif key=71 lokey=71 hikey=71 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=215359 loop_end=395837
+<region> sample=Organic Lead-72-127-JMSD.aif key=72 lokey=72 hikey=72 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=229295 loop_end=369391
+<region> sample=Organic Lead-73-127-0AGF.aif key=73 lokey=73 hikey=73 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=231620 loop_end=371788
+<region> sample=Organic Lead-74-127-61FS.aif key=74 lokey=74 hikey=74 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=292423 loop_end=385844
+<region> sample=Organic Lead-75-127-4JRE.aif key=75 lokey=75 hikey=75 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=311097 loop_end=364150
+<region> sample=Organic Lead-76-127-WT7X.aif key=76 lokey=76 hikey=76 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=309570 loop_end=362751
+<region> sample=Organic Lead-77-127-3J5M.aif key=77 lokey=77 hikey=77 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=275282 loop_end=328399
+<region> sample=Organic Lead-78-127-UKWN.aif key=78 lokey=78 hikey=78 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=225542 loop_end=265593
+<region> sample=Organic Lead-79-127-3Q1S.aif key=79 lokey=79 hikey=79 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=250519 loop_end=291001
+<region> sample=Organic Lead-80-127-NCMX.aif key=80 lokey=80 hikey=80 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=357293 loop_end=397461
+<region> sample=Organic Lead-81-127-WLXG.aif key=81 lokey=81 hikey=81 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=251692 loop_end=292067
+<region> sample=Organic Lead-82-127-C2NX.aif key=82 lokey=82 hikey=82 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=291590 loop_end=344673
+<region> sample=Organic Lead-83-127-8SPA.aif key=83 lokey=83 hikey=83 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=340698 loop_end=393766
+<region> sample=Organic Lead-84-127-S8P4.aif key=84 lokey=84 hikey=84 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=285969 loop_end=379307
+<region> sample=Organic Lead-85-127-6TED.aif key=85 lokey=85 hikey=85 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=293485 loop_end=386884
+<region> sample=Organic Lead-86-127-8XIL.aif key=86 lokey=86 hikey=86 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=311677 loop_end=398694
+<region> sample=Organic Lead-87-127-TLJY.aif key=87 lokey=87 hikey=87 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=215893 loop_end=396197
+<region> sample=Organic Lead-88-127-5XU6.aif key=88 lokey=88 hikey=88 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=212260 loop_end=392550
+<region> sample=Organic Lead-89-127-0QZE.aif key=89 lokey=89 hikey=89 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=246426 loop_end=286592
+<region> sample=Organic Lead-90-127-2H62.aif key=90 lokey=90 hikey=90 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=257651 loop_end=297812
+<region> sample=Organic Lead-91-127-5VU6.aif key=91 lokey=91 hikey=91 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=356917 loop_end=397091
+<region> sample=Organic Lead-92-127-22JH.aif key=92 lokey=92 hikey=92 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=232875 loop_end=272907
+<region> sample=Organic Lead-93-127-ZUY0.aif key=93 lokey=93 hikey=93 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=287265 loop_end=327339
+<region> sample=Organic Lead-94-127-O1SL.aif key=94 lokey=94 hikey=94 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=306489 loop_end=346519
+<region> sample=Organic Lead-95-127-1X33.aif key=95 lokey=95 hikey=95 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=356819 loop_end=397032
+<region> sample=Organic Lead-96-127-O9RX.aif key=96 lokey=96 hikey=96 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=356875 loop_end=396868

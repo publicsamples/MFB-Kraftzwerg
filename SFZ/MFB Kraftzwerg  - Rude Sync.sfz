@@ -1,124 +1,68 @@
-// this file was generated from MFB Kraftzwerg  - Rude Sync.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - MFB Kraftzwerg  - Rude Sync.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=268405 loop_end=362725 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-36-127-KE1S.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=353024 loop_end=442049 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-37-127-J4XA.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=394886 loop_end=478876 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-38-127-LBF1.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=322261 loop_end=473790 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-39-127-EQUL.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=317185 loop_end=468728 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-40-127-OTYA.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=281388 loop_end=422257 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-41-127-VNN5.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=248999 loop_end=311572 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-42-127-UV79.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=402259 loop_end=464955 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-43-127-SBN4.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=383342 loop_end=440781 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-44-127-XSS0.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=381551 loop_end=438992 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-45-127-0GJN.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=364638 loop_end=469267 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-46-127-2F4V.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254048 loop_end=400358 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-47-127-SDWE.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329330 loop_end=376254 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-48-127-ZQZ6.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290700 loop_end=463364 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-49-127-ARVO.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251114 loop_end=371692 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-50-127-R0EI.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=324852 loop_end=476969 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-51-127-IMN3.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285488 loop_end=463548 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-52-127-2STO.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=317966 loop_end=453945 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-53-127-ZPAC.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=337729 loop_end=431952 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-54-127-M9SH.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=378636 loop_end=467561 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-55-127-DUA2.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=324407 loop_end=465668 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-56-127-IR6X.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252236 loop_end=304743 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-57-127-EZ2O.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=247920 loop_end=473224 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-58-127-B975.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=282445 loop_end=329571 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-59-127-ML7S.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=385642 loop_end=474584 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-60-127-WKLV.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251879 loop_end=335805 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-61-127-A9C0.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=394775 loop_end=473375 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-62-127-6UHS.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=379439 loop_end=453053 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-63-127-A2BF.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=249506 loop_end=459221 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-64-127-WINY.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=299841 loop_end=430943 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-65-127-JSCB.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=429413 loop_end=476403 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-66-127-83M9.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=343736 loop_end=474730 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-67-127-N76A.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251852 loop_end=471995 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-68-127-TJW3.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=303717 loop_end=471637 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-69-127-YMX1.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254516 loop_end=474699 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-70-127-SODF.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255962 loop_end=428977 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-71-127-V8KW.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=341967 loop_end=473049 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-72-127-2PMW.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=249828 loop_end=464803 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-73-127-V9LQ.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=264036 loop_end=389901 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-74-127-NNVJ.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=302335 loop_end=475458 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-75-127-9YH0.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251735 loop_end=466733 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-76-127-V6B4.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=249542 loop_end=338625 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-77-127-RXRB.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=284303 loop_end=368273 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-78-127-MVAG.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=264874 loop_end=474801 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-79-127-3L45.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=302020 loop_end=349256 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-80-127-7NHE.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=306983 loop_end=390939 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-81-127-YA0P.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=374112 loop_end=458037 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-82-127-4TCJ.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=352339 loop_end=478236 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-83-127-ROQY.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=344379 loop_end=470347 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-84-127-PI4A.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=299277 loop_end=467279 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-85-127-78BL.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=266390 loop_end=439566 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-86-127-ZE0L.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=296797 loop_end=469904 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-87-127-09WC.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=305000 loop_end=472964 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-88-127-96J8.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251334 loop_end=377328 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-89-127-ZHKH.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=291172 loop_end=375182 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-90-127-2W5G.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=260238 loop_end=344186 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-91-127-9B17.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=320284 loop_end=409484 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-92-127-REX8.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271230 loop_end=475939 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-93-127-KLTD.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=248387 loop_end=374404 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-94-127-2ZV0.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=301921 loop_end=380680 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-95-127-E52B.aif
-<group> key=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255724 loop_end=465671 sample=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/Rude Sync-96-127-VTR3.aif
+<control>
+default_path=../Audio/MFB Kraftzwerg  - Rude Sync-SAMPLES/
+
+<group>        // Rude Sync
+<region> sample=Rude Sync-36-127-KE1S.aif key=36 lokey=36 hikey=36 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=268405 loop_end=362726
+<region> sample=Rude Sync-37-127-J4XA.aif key=37 lokey=37 hikey=37 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=353024 loop_end=442050
+<region> sample=Rude Sync-38-127-LBF1.aif key=38 lokey=38 hikey=38 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=394886 loop_end=478877
+<region> sample=Rude Sync-39-127-EQUL.aif key=39 lokey=39 hikey=39 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=322261 loop_end=473791
+<region> sample=Rude Sync-40-127-OTYA.aif key=40 lokey=40 hikey=40 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=317185 loop_end=468729
+<region> sample=Rude Sync-41-127-VNN5.aif key=41 lokey=41 hikey=41 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=281388 loop_end=422258
+<region> sample=Rude Sync-42-127-UV79.aif key=42 lokey=42 hikey=42 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=248999 loop_end=311573
+<region> sample=Rude Sync-43-127-SBN4.aif key=43 lokey=43 hikey=43 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=402259 loop_end=464956
+<region> sample=Rude Sync-44-127-XSS0.aif key=44 lokey=44 hikey=44 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=383342 loop_end=440782
+<region> sample=Rude Sync-45-127-0GJN.aif key=45 lokey=45 hikey=45 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=381551 loop_end=438993
+<region> sample=Rude Sync-46-127-2F4V.aif key=46 lokey=46 hikey=46 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=364638 loop_end=469268
+<region> sample=Rude Sync-47-127-SDWE.aif key=47 lokey=47 hikey=47 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=254048 loop_end=400359
+<region> sample=Rude Sync-48-127-ZQZ6.aif key=48 lokey=48 hikey=48 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=329330 loop_end=376255
+<region> sample=Rude Sync-49-127-ARVO.aif key=49 lokey=49 hikey=49 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=290700 loop_end=463365
+<region> sample=Rude Sync-50-127-R0EI.aif key=50 lokey=50 hikey=50 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=251114 loop_end=371693
+<region> sample=Rude Sync-51-127-IMN3.aif key=51 lokey=51 hikey=51 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=324852 loop_end=476970
+<region> sample=Rude Sync-52-127-2STO.aif key=52 lokey=52 hikey=52 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=285488 loop_end=463549
+<region> sample=Rude Sync-53-127-ZPAC.aif key=53 lokey=53 hikey=53 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=317966 loop_end=453946
+<region> sample=Rude Sync-54-127-M9SH.aif key=54 lokey=54 hikey=54 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=337729 loop_end=431953
+<region> sample=Rude Sync-55-127-DUA2.aif key=55 lokey=55 hikey=55 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=378636 loop_end=467562
+<region> sample=Rude Sync-56-127-IR6X.aif key=56 lokey=56 hikey=56 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=324407 loop_end=465669
+<region> sample=Rude Sync-57-127-EZ2O.aif key=57 lokey=57 hikey=57 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=252236 loop_end=304744
+<region> sample=Rude Sync-58-127-B975.aif key=58 lokey=58 hikey=58 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=247920 loop_end=473225
+<region> sample=Rude Sync-59-127-ML7S.aif key=59 lokey=59 hikey=59 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=282445 loop_end=329572
+<region> sample=Rude Sync-60-127-WKLV.aif key=60 lokey=60 hikey=60 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=385642 loop_end=474585
+<region> sample=Rude Sync-61-127-A9C0.aif key=61 lokey=61 hikey=61 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=251879 loop_end=335806
+<region> sample=Rude Sync-62-127-6UHS.aif key=62 lokey=62 hikey=62 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=394775 loop_end=473376
+<region> sample=Rude Sync-63-127-A2BF.aif key=63 lokey=63 hikey=63 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=379439 loop_end=453054
+<region> sample=Rude Sync-64-127-WINY.aif key=64 lokey=64 hikey=64 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=249506 loop_end=459222
+<region> sample=Rude Sync-65-127-JSCB.aif key=65 lokey=65 hikey=65 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=299841 loop_end=430944
+<region> sample=Rude Sync-66-127-83M9.aif key=66 lokey=66 hikey=66 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=429413 loop_end=476404
+<region> sample=Rude Sync-67-127-N76A.aif key=67 lokey=67 hikey=67 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=343736 loop_end=474731
+<region> sample=Rude Sync-68-127-TJW3.aif key=68 lokey=68 hikey=68 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=251852 loop_end=471996
+<region> sample=Rude Sync-69-127-YMX1.aif key=69 lokey=69 hikey=69 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=303717 loop_end=471638
+<region> sample=Rude Sync-70-127-SODF.aif key=70 lokey=70 hikey=70 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=254516 loop_end=474700
+<region> sample=Rude Sync-71-127-V8KW.aif key=71 lokey=71 hikey=71 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=255962 loop_end=428978
+<region> sample=Rude Sync-72-127-2PMW.aif key=72 lokey=72 hikey=72 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=341967 loop_end=473050
+<region> sample=Rude Sync-73-127-V9LQ.aif key=73 lokey=73 hikey=73 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=249828 loop_end=464804
+<region> sample=Rude Sync-74-127-NNVJ.aif key=74 lokey=74 hikey=74 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=264036 loop_end=389902
+<region> sample=Rude Sync-75-127-9YH0.aif key=75 lokey=75 hikey=75 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=302335 loop_end=475459
+<region> sample=Rude Sync-76-127-V6B4.aif key=76 lokey=76 hikey=76 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=251735 loop_end=466734
+<region> sample=Rude Sync-77-127-RXRB.aif key=77 lokey=77 hikey=77 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=249542 loop_end=338626
+<region> sample=Rude Sync-78-127-MVAG.aif key=78 lokey=78 hikey=78 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=284303 loop_end=368274
+<region> sample=Rude Sync-79-127-3L45.aif key=79 lokey=79 hikey=79 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=264874 loop_end=474802
+<region> sample=Rude Sync-80-127-7NHE.aif key=80 lokey=80 hikey=80 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=302020 loop_end=349257
+<region> sample=Rude Sync-81-127-YA0P.aif key=81 lokey=81 hikey=81 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=306983 loop_end=390940
+<region> sample=Rude Sync-82-127-4TCJ.aif key=82 lokey=82 hikey=82 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=374112 loop_end=458038
+<region> sample=Rude Sync-83-127-ROQY.aif key=83 lokey=83 hikey=83 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=352339 loop_end=478237
+<region> sample=Rude Sync-84-127-PI4A.aif key=84 lokey=84 hikey=84 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=344379 loop_end=470348
+<region> sample=Rude Sync-85-127-78BL.aif key=85 lokey=85 hikey=85 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=299277 loop_end=467280
+<region> sample=Rude Sync-86-127-ZE0L.aif key=86 lokey=86 hikey=86 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=266390 loop_end=439567
+<region> sample=Rude Sync-87-127-09WC.aif key=87 lokey=87 hikey=87 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=296797 loop_end=469905
+<region> sample=Rude Sync-88-127-96J8.aif key=88 lokey=88 hikey=88 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=305000 loop_end=472965
+<region> sample=Rude Sync-89-127-ZHKH.aif key=89 lokey=89 hikey=89 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=251334 loop_end=377329
+<region> sample=Rude Sync-90-127-2W5G.aif key=90 lokey=90 hikey=90 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=291172 loop_end=375183
+<region> sample=Rude Sync-91-127-9B17.aif key=91 lokey=91 hikey=91 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=260238 loop_end=344187
+<region> sample=Rude Sync-92-127-REX8.aif key=92 lokey=92 hikey=92 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=320284 loop_end=409485
+<region> sample=Rude Sync-93-127-KLTD.aif key=93 lokey=93 hikey=93 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=271230 loop_end=475940
+<region> sample=Rude Sync-94-127-2ZV0.aif key=94 lokey=94 hikey=94 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=248387 loop_end=374405
+<region> sample=Rude Sync-95-127-E52B.aif key=95 lokey=95 hikey=95 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=301921 loop_end=380681
+<region> sample=Rude Sync-96-127-VTR3.aif key=96 lokey=96 hikey=96 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=255724 loop_end=465672

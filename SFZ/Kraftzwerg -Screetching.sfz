@@ -1,4 +1,80 @@
-// this file was generated from Kraftzwerg -Screetching.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Kraftzwerg -Screetching.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=5888 end=414351
+<control>
+default_path=../Audio/MFB Kraftzwerg/Kraftzwerg -Screetching/
+
+<group>        // Kraftzwerg -Screetching
+<region> sample=Kraftzwerg -Screetchi#7576C.aif key=36 lokey=36 hikey=36 lovel=1 hivel=127 amp_veltrack=20 offset=5888 end=414351 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#7576D.aif key=37 lokey=37 hikey=37 lovel=1 hivel=127 amp_veltrack=20 offset=4005 end=413145 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#7576E.aif key=38 lokey=38 hikey=38 lovel=1 hivel=127 amp_veltrack=20 offset=3273 end=413797 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#7576F.aif key=39 lokey=39 hikey=39 lovel=1 hivel=127 amp_veltrack=20 offset=3298 end=415622 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75770.aif key=40 lokey=40 hikey=40 lovel=1 hivel=127 amp_veltrack=20 offset=3817 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75771.aif key=41 lokey=41 hikey=41 lovel=1 hivel=127 amp_veltrack=20 offset=3224 end=413707 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75772.aif key=42 lokey=42 hikey=42 lovel=1 hivel=127 amp_veltrack=20 offset=3316 end=413431 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75773.aif key=43 lokey=43 hikey=43 lovel=1 hivel=127 amp_veltrack=20 offset=3689 end=413774 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75774.aif key=44 lokey=44 hikey=44 lovel=1 hivel=127 amp_veltrack=20 offset=3250 end=410837 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75775.aif key=45 lokey=45 hikey=45 lovel=1 hivel=127 amp_veltrack=20 offset=3323 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75776.aif key=46 lokey=46 hikey=46 lovel=1 hivel=127 amp_veltrack=20 offset=3926 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75777.aif key=47 lokey=47 hikey=47 lovel=1 hivel=127 amp_veltrack=20 offset=3728 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75778.aif key=48 lokey=48 hikey=48 lovel=1 hivel=127 amp_veltrack=20 offset=3129 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75779.aif key=49 lokey=49 hikey=49 lovel=1 hivel=127 amp_veltrack=20 offset=3310 end=414599 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#7577A.aif key=50 lokey=50 hikey=50 lovel=1 hivel=127 amp_veltrack=20 offset=3458 end=417077 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#7577B.aif key=51 lokey=51 hikey=51 lovel=1 hivel=127 amp_veltrack=20 offset=4117 end=414282 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#7577C.aif key=52 lokey=52 hikey=52 lovel=1 hivel=127 amp_veltrack=20 offset=3000 end=413600 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#7577D.aif key=53 lokey=53 hikey=53 lovel=1 hivel=127 amp_veltrack=20 offset=3091 end=413867 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#7577E.aif key=54 lokey=54 hikey=54 lovel=1 hivel=127 amp_veltrack=20 offset=3377 end=413725 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#7577F.aif key=55 lokey=55 hikey=55 lovel=1 hivel=127 amp_veltrack=20 offset=3043 end=412544 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75780.aif key=56 lokey=56 hikey=56 lovel=1 hivel=127 amp_veltrack=20 offset=3335 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75781.aif key=57 lokey=57 hikey=57 lovel=1 hivel=127 amp_veltrack=20 offset=3229 end=416438 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75782.aif key=58 lokey=58 hikey=58 lovel=1 hivel=127 amp_veltrack=20 offset=3308 end=415249 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75783.aif key=59 lokey=59 hikey=59 lovel=1 hivel=127 amp_veltrack=20 offset=3334 end=414071 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75784.aif key=60 lokey=60 hikey=60 lovel=1 hivel=127 amp_veltrack=20 offset=2864 end=415266 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75785.aif key=61 lokey=61 hikey=61 lovel=1 hivel=127 amp_veltrack=20 offset=3224 end=412557 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75786.aif key=62 lokey=62 hikey=62 lovel=1 hivel=127 amp_veltrack=20 offset=3753 end=413437 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75787.aif key=63 lokey=63 hikey=63 lovel=1 hivel=127 amp_veltrack=20 offset=3502 end=413824 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75788.aif key=64 lokey=64 hikey=64 lovel=1 hivel=127 amp_veltrack=20 offset=3230 end=411695 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75789.aif key=65 lokey=65 hikey=65 lovel=1 hivel=127 amp_veltrack=20 offset=3265 end=415466 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#7578A.aif key=66 lokey=66 hikey=66 lovel=1 hivel=127 amp_veltrack=20 offset=3038 end=410240 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#7578B.aif key=67 lokey=67 hikey=67 lovel=1 hivel=127 amp_veltrack=20 offset=3251 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#7578C.aif key=68 lokey=68 hikey=68 lovel=1 hivel=127 amp_veltrack=20 offset=3927 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#7578D.aif key=69 lokey=69 hikey=69 lovel=1 hivel=127 amp_veltrack=20 offset=3254 end=413696 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#7578E.aif key=70 lokey=70 hikey=70 lovel=1 hivel=127 amp_veltrack=20 offset=3431 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#7578F.aif key=71 lokey=71 hikey=71 lovel=1 hivel=127 amp_veltrack=20 offset=3568 end=411914 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75790.aif key=72 lokey=72 hikey=72 lovel=1 hivel=127 amp_veltrack=20 offset=3303 end=411789 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75791.aif key=73 lokey=73 hikey=73 lovel=1 hivel=127 amp_veltrack=20 offset=3249 end=413312 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75792.aif key=74 lokey=74 hikey=74 lovel=1 hivel=127 amp_veltrack=20 offset=3135 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75793.aif key=75 lokey=75 hikey=75 lovel=1 hivel=127 amp_veltrack=20 offset=3196 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75794.aif key=76 lokey=76 hikey=76 lovel=1 hivel=127 amp_veltrack=20 offset=3416 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75795.aif key=77 lokey=77 hikey=77 lovel=1 hivel=127 amp_veltrack=20 offset=4094 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75796.aif key=78 lokey=78 hikey=78 lovel=1 hivel=127 amp_veltrack=20 offset=3159 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75797.aif key=79 lokey=79 hikey=79 lovel=1 hivel=127 amp_veltrack=20 offset=3097 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75798.aif key=80 lokey=80 hikey=80 lovel=1 hivel=127 amp_veltrack=20 offset=2999 end=412959 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#75799.aif key=81 lokey=81 hikey=81 lovel=1 hivel=127 amp_veltrack=20 offset=3166 end=413449 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#7579A.aif key=82 lokey=82 hikey=82 lovel=1 hivel=127 amp_veltrack=20 offset=3094 end=414724 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetch#28300E.aif key=83 lokey=83 hikey=83 lovel=1 hivel=127 amp_veltrack=20 offset=3037 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#7579C.aif key=84 lokey=84 hikey=84 lovel=1 hivel=127 amp_veltrack=20 offset=3605 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#7579D.aif key=85 lokey=85 hikey=85 lovel=1 hivel=127 amp_veltrack=20 offset=3273 end=414875 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#1AF14.aif key=86 lokey=86 hikey=86 lovel=1 hivel=127 amp_veltrack=20 offset=3733 end=413229 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#7579F.aif key=87 lokey=87 hikey=87 lovel=1 hivel=127 amp_veltrack=20 offset=2805 end=412672 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#757A0.aif key=88 lokey=88 hikey=88 lovel=1 hivel=127 amp_veltrack=20 offset=3139 end=412064 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#757A1.aif key=89 lokey=89 hikey=89 lovel=1 hivel=127 amp_veltrack=20 offset=3084 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#757A2.aif key=90 lokey=90 hikey=90 lovel=1 hivel=127 amp_veltrack=20 offset=3280 end=412293 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#757A3.aif key=91 lokey=91 hikey=91 lovel=1 hivel=127 amp_veltrack=20 offset=3311 end=415378 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#757A4.aif key=92 lokey=92 hikey=92 lovel=1 hivel=127 amp_veltrack=20 offset=3879 end=412551 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#757A5.aif key=93 lokey=93 hikey=93 lovel=1 hivel=127 amp_veltrack=20 offset=3581 end=413837 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#757A6.aif key=94 lokey=94 hikey=94 lovel=1 hivel=127 amp_veltrack=20 offset=3463 end=415249 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#757A7.aif key=95 lokey=95 hikey=95 lovel=1 hivel=127 amp_veltrack=20 offset=3232 end=413337 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#757A8.aif key=96 lokey=96 hikey=96 lovel=1 hivel=127 amp_veltrack=20 offset=3631 end=414209 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#757A9.aif key=97 lokey=97 hikey=97 lovel=1 hivel=127 amp_veltrack=20 offset=2993 end=414085 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#757AA.aif key=98 lokey=98 hikey=98 lovel=1 hivel=127 amp_veltrack=20 offset=3837 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#757AB.aif key=99 lokey=99 hikey=99 lovel=1 hivel=127 amp_veltrack=20 offset=3270 end=415488 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#757AC.aif key=100 lokey=100 hikey=100 lovel=1 hivel=127 amp_veltrack=20 offset=3305 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#757AD.aif key=101 lokey=101 hikey=101 lovel=1 hivel=127 amp_veltrack=20 offset=3311 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#757AE.aif key=102 lokey=102 hikey=102 lovel=1 hivel=127 amp_veltrack=20 offset=3392 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#757AF.aif key=103 lokey=103 hikey=103 lovel=1 hivel=127 amp_veltrack=20 offset=3125 end=415724 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#757B0.aif key=104 lokey=104 hikey=104 lovel=1 hivel=127 amp_veltrack=20 offset=3998 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#757B1.aif key=105 lokey=105 hikey=105 lovel=1 hivel=127 amp_veltrack=20 offset=2938 end=413824 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#757B2.aif key=106 lokey=106 hikey=106 lovel=1 hivel=127 amp_veltrack=20 offset=3290 end=416388 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#757B3.aif key=107 lokey=107 hikey=107 lovel=1 hivel=127 amp_veltrack=20 offset=3036 end=414976 loop_mode=no_loop
+<region> sample=Kraftzwerg -Screetchi#757B4.aif key=108 lokey=108 hikey=108 lovel=1 hivel=127 amp_veltrack=20 offset=3322 end=415756 loop_mode=no_loop

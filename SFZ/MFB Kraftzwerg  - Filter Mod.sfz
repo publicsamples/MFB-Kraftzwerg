@@ -1,124 +1,68 @@
-// this file was generated from MFB Kraftzwerg  - Filter Mod.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - MFB Kraftzwerg  - Filter Mod.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=8600 end=543763 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-36-127.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=6821 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-37-127.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=6832 end=544291 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-38-127.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=6386 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-39-127.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=6884 end=557929 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-40-127.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=6660 end=547479 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-41-127.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=6855 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-42-127.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=6723 end=545736 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-43-127.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=6958 end=544966 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-44-127.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=6896 end=546456 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-45-127.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=6814 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-46-127.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=6895 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-47-127.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7283 end=546741 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-48-127.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7236 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-49-127.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=6779 end=544133 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-50-127.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7320 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-51-127.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7468 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-52-127.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7243 end=559488 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-53-127.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7611 end=547272 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-54-127.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7102 end=545600 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-55-127.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7205 end=548281 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-56-127.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=255 end=545243 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-57-127.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7585 end=545384 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-58-127.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7655 end=544380 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-59-127.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=8042 end=551055 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-60-127.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7774 end=555655 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-61-127.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7939 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-62-127.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7715 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-63-127.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7650 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-64-127.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7302 end=544924 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-65-127.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7902 end=545287 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-66-127.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7895 end=544568 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-67-127.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=8042 end=544398 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-68-127.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7446 end=547620 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-69-127.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7820 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-70-127.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7960 end=544205 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-71-127.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=8172 end=547517 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-72-127.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1151 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-73-127.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7701 end=546849 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-74-127.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=8190 end=545613 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-75-127.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7679 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-76-127.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=8069 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-77-127.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7711 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-78-127.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7803 end=542361 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-79-127.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7674 end=544518 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-80-127.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7216 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-81-127.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7839 end=546454 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-82-127.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7720 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-83-127.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7466 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-84-127.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=2558 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-85-127.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7303 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-86-127.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7144 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-87-127.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7409 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-88-127.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7186 end=545079 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-89-127.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7271 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-90-127.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7339 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-91-127.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7245 end=545638 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-92-127.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=7450 end=543246 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-93-127.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=6785 end=542679 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-94-127.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=6902 end=543189 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-95-127.aif
-<group> key=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=5887 end=541339 sample=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/Filter Mod-96-127.aif
+<control>
+default_path=../Audio/MFB Kraftzwerg  - Filter Mod-SAMPLES/
+
+<group>        // Filter Mod
+<region> sample=Filter Mod-36-127.aif key=36 lokey=36 hikey=36 lovel=1 hivel=127 amp_veltrack=20 offset=8600 end=543763 loop_mode=no_loop
+<region> sample=Filter Mod-37-127.aif key=37 lokey=37 hikey=37 lovel=1 hivel=127 amp_veltrack=20 offset=6821 loop_mode=no_loop
+<region> sample=Filter Mod-38-127.aif key=38 lokey=38 hikey=38 lovel=1 hivel=127 amp_veltrack=20 offset=6832 end=544291 loop_mode=no_loop
+<region> sample=Filter Mod-39-127.aif key=39 lokey=39 hikey=39 lovel=1 hivel=127 amp_veltrack=20 offset=6386 loop_mode=no_loop
+<region> sample=Filter Mod-40-127.aif key=40 lokey=40 hikey=40 lovel=1 hivel=127 amp_veltrack=20 offset=6884 end=557929 loop_mode=no_loop
+<region> sample=Filter Mod-41-127.aif key=41 lokey=41 hikey=41 lovel=1 hivel=127 amp_veltrack=20 offset=6660 end=547479 loop_mode=no_loop
+<region> sample=Filter Mod-42-127.aif key=42 lokey=42 hikey=42 lovel=1 hivel=127 amp_veltrack=20 offset=6855 loop_mode=no_loop
+<region> sample=Filter Mod-43-127.aif key=43 lokey=43 hikey=43 lovel=1 hivel=127 amp_veltrack=20 offset=6723 end=545736 loop_mode=no_loop
+<region> sample=Filter Mod-44-127.aif key=44 lokey=44 hikey=44 lovel=1 hivel=127 amp_veltrack=20 offset=6958 end=544966 loop_mode=no_loop
+<region> sample=Filter Mod-45-127.aif key=45 lokey=45 hikey=45 lovel=1 hivel=127 amp_veltrack=20 offset=6896 end=546456 loop_mode=no_loop
+<region> sample=Filter Mod-46-127.aif key=46 lokey=46 hikey=46 lovel=1 hivel=127 amp_veltrack=20 offset=6814 loop_mode=no_loop
+<region> sample=Filter Mod-47-127.aif key=47 lokey=47 hikey=47 lovel=1 hivel=127 amp_veltrack=20 offset=6895 loop_mode=no_loop
+<region> sample=Filter Mod-48-127.aif key=48 lokey=48 hikey=48 lovel=1 hivel=127 amp_veltrack=20 offset=7283 end=546741 loop_mode=no_loop
+<region> sample=Filter Mod-49-127.aif key=49 lokey=49 hikey=49 lovel=1 hivel=127 amp_veltrack=20 offset=7236 loop_mode=no_loop
+<region> sample=Filter Mod-50-127.aif key=50 lokey=50 hikey=50 lovel=1 hivel=127 amp_veltrack=20 offset=6779 end=544133 loop_mode=no_loop
+<region> sample=Filter Mod-51-127.aif key=51 lokey=51 hikey=51 lovel=1 hivel=127 amp_veltrack=20 offset=7320 loop_mode=no_loop
+<region> sample=Filter Mod-52-127.aif key=52 lokey=52 hikey=52 lovel=1 hivel=127 amp_veltrack=20 offset=7468 loop_mode=no_loop
+<region> sample=Filter Mod-53-127.aif key=53 lokey=53 hikey=53 lovel=1 hivel=127 amp_veltrack=20 offset=7243 end=559488 loop_mode=no_loop
+<region> sample=Filter Mod-54-127.aif key=54 lokey=54 hikey=54 lovel=1 hivel=127 amp_veltrack=20 offset=7611 end=547272 loop_mode=no_loop
+<region> sample=Filter Mod-55-127.aif key=55 lokey=55 hikey=55 lovel=1 hivel=127 amp_veltrack=20 offset=7102 end=545600 loop_mode=no_loop
+<region> sample=Filter Mod-56-127.aif key=56 lokey=56 hikey=56 lovel=1 hivel=127 amp_veltrack=20 offset=7205 end=548281 loop_mode=no_loop
+<region> sample=Filter Mod-57-127.aif key=57 lokey=57 hikey=57 lovel=1 hivel=127 amp_veltrack=20 offset=255 end=545243 loop_mode=no_loop
+<region> sample=Filter Mod-58-127.aif key=58 lokey=58 hikey=58 lovel=1 hivel=127 amp_veltrack=20 offset=7585 end=545384 loop_mode=no_loop
+<region> sample=Filter Mod-59-127.aif key=59 lokey=59 hikey=59 lovel=1 hivel=127 amp_veltrack=20 offset=7655 end=544380 loop_mode=no_loop
+<region> sample=Filter Mod-60-127.aif key=60 lokey=60 hikey=60 lovel=1 hivel=127 amp_veltrack=20 offset=8042 end=551055 loop_mode=no_loop
+<region> sample=Filter Mod-61-127.aif key=61 lokey=61 hikey=61 lovel=1 hivel=127 amp_veltrack=20 offset=7774 end=555655 loop_mode=no_loop
+<region> sample=Filter Mod-62-127.aif key=62 lokey=62 hikey=62 lovel=1 hivel=127 amp_veltrack=20 offset=7939 loop_mode=no_loop
+<region> sample=Filter Mod-63-127.aif key=63 lokey=63 hikey=63 lovel=1 hivel=127 amp_veltrack=20 offset=7715 loop_mode=no_loop
+<region> sample=Filter Mod-64-127.aif key=64 lokey=64 hikey=64 lovel=1 hivel=127 amp_veltrack=20 offset=7650 loop_mode=no_loop
+<region> sample=Filter Mod-65-127.aif key=65 lokey=65 hikey=65 lovel=1 hivel=127 amp_veltrack=20 offset=7302 end=544924 loop_mode=no_loop
+<region> sample=Filter Mod-66-127.aif key=66 lokey=66 hikey=66 lovel=1 hivel=127 amp_veltrack=20 offset=7902 end=545287 loop_mode=no_loop
+<region> sample=Filter Mod-67-127.aif key=67 lokey=67 hikey=67 lovel=1 hivel=127 amp_veltrack=20 offset=7895 end=544568 loop_mode=no_loop
+<region> sample=Filter Mod-68-127.aif key=68 lokey=68 hikey=68 lovel=1 hivel=127 amp_veltrack=20 offset=8042 end=544398 loop_mode=no_loop
+<region> sample=Filter Mod-69-127.aif key=69 lokey=69 hikey=69 lovel=1 hivel=127 amp_veltrack=20 offset=7446 end=547620 loop_mode=no_loop
+<region> sample=Filter Mod-70-127.aif key=70 lokey=70 hikey=70 lovel=1 hivel=127 amp_veltrack=20 offset=7820 loop_mode=no_loop
+<region> sample=Filter Mod-71-127.aif key=71 lokey=71 hikey=71 lovel=1 hivel=127 amp_veltrack=20 offset=7960 end=544205 loop_mode=no_loop
+<region> sample=Filter Mod-72-127.aif key=72 lokey=72 hikey=72 lovel=1 hivel=127 amp_veltrack=20 offset=8172 end=547517 loop_mode=no_loop
+<region> sample=Filter Mod-73-127.aif key=73 lokey=73 hikey=73 lovel=1 hivel=127 amp_veltrack=20 offset=1151 loop_mode=no_loop
+<region> sample=Filter Mod-74-127.aif key=74 lokey=74 hikey=74 lovel=1 hivel=127 amp_veltrack=20 offset=7701 end=546849 loop_mode=no_loop
+<region> sample=Filter Mod-75-127.aif key=75 lokey=75 hikey=75 lovel=1 hivel=127 amp_veltrack=20 offset=8190 end=545613 loop_mode=no_loop
+<region> sample=Filter Mod-76-127.aif key=76 lokey=76 hikey=76 lovel=1 hivel=127 amp_veltrack=20 offset=7679 loop_mode=no_loop
+<region> sample=Filter Mod-77-127.aif key=77 lokey=77 hikey=77 lovel=1 hivel=127 amp_veltrack=20 offset=8069 loop_mode=no_loop
+<region> sample=Filter Mod-78-127.aif key=78 lokey=78 hikey=78 lovel=1 hivel=127 amp_veltrack=20 offset=7711 loop_mode=no_loop
+<region> sample=Filter Mod-79-127.aif key=79 lokey=79 hikey=79 lovel=1 hivel=127 amp_veltrack=20 offset=7803 end=542361 loop_mode=no_loop
+<region> sample=Filter Mod-80-127.aif key=80 lokey=80 hikey=80 lovel=1 hivel=127 amp_veltrack=20 offset=7674 end=544518 loop_mode=no_loop
+<region> sample=Filter Mod-81-127.aif key=81 lokey=81 hikey=81 lovel=1 hivel=127 amp_veltrack=20 offset=7216 loop_mode=no_loop
+<region> sample=Filter Mod-82-127.aif key=82 lokey=82 hikey=82 lovel=1 hivel=127 amp_veltrack=20 offset=7839 end=546454 loop_mode=no_loop
+<region> sample=Filter Mod-83-127.aif key=83 lokey=83 hikey=83 lovel=1 hivel=127 amp_veltrack=20 offset=7720 loop_mode=no_loop
+<region> sample=Filter Mod-84-127.aif key=84 lokey=84 hikey=84 lovel=1 hivel=127 amp_veltrack=20 offset=7466 loop_mode=no_loop
+<region> sample=Filter Mod-85-127.aif key=85 lokey=85 hikey=85 lovel=1 hivel=127 amp_veltrack=20 offset=2558 loop_mode=no_loop
+<region> sample=Filter Mod-86-127.aif key=86 lokey=86 hikey=86 lovel=1 hivel=127 amp_veltrack=20 offset=7303 loop_mode=no_loop
+<region> sample=Filter Mod-87-127.aif key=87 lokey=87 hikey=87 lovel=1 hivel=127 amp_veltrack=20 offset=7144 loop_mode=no_loop
+<region> sample=Filter Mod-88-127.aif key=88 lokey=88 hikey=88 lovel=1 hivel=127 amp_veltrack=20 offset=7409 loop_mode=no_loop
+<region> sample=Filter Mod-89-127.aif key=89 lokey=89 hikey=89 lovel=1 hivel=127 amp_veltrack=20 offset=7186 end=545079 loop_mode=no_loop
+<region> sample=Filter Mod-90-127.aif key=90 lokey=90 hikey=90 lovel=1 hivel=127 amp_veltrack=20 offset=7271 loop_mode=no_loop
+<region> sample=Filter Mod-91-127.aif key=91 lokey=91 hikey=91 lovel=1 hivel=127 amp_veltrack=20 offset=7339 loop_mode=no_loop
+<region> sample=Filter Mod-92-127.aif key=92 lokey=92 hikey=92 lovel=1 hivel=127 amp_veltrack=20 offset=7245 end=545638 loop_mode=no_loop
+<region> sample=Filter Mod-93-127.aif key=93 lokey=93 hikey=93 lovel=1 hivel=127 amp_veltrack=20 offset=7450 end=543246 loop_mode=no_loop
+<region> sample=Filter Mod-94-127.aif key=94 lokey=94 hikey=94 lovel=1 hivel=127 amp_veltrack=20 offset=6785 end=542679 loop_mode=no_loop
+<region> sample=Filter Mod-95-127.aif key=95 lokey=95 hikey=95 lovel=1 hivel=127 amp_veltrack=20 offset=6902 end=543189 loop_mode=no_loop
+<region> sample=Filter Mod-96-127.aif key=96 lokey=96 hikey=96 lovel=1 hivel=127 amp_veltrack=20 offset=5887 end=541339 loop_mode=no_loop

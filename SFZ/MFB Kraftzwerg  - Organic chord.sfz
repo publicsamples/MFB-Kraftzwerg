@@ -1,124 +1,68 @@
-// this file was generated from MFB Kraftzwerg  - Organic chord.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - MFB Kraftzwerg  - Organic chord.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=253602 loop_end=383728 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-36-127-UXDF.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243826 loop_end=284755 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-37-127-8V8E.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=208820 loop_end=374346 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-38-127-KIWP.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287089 loop_end=359863 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-39-127-28HN.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246651 loop_end=315323 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-40-127-ZZIK.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238706 loop_end=303453 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-41-127-BN2V.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=304106 loop_end=374807 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-42-127-G21B.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=295647 loop_end=347201 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-43-127-Q29B.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=324689 loop_end=379051 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-44-127-07I1.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=332660 loop_end=392069 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-45-127-ADIJ.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=260954 loop_end=304905 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-46-127-G1VU.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252593 loop_end=328339 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-47-127-AF35.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=275461 loop_end=386085 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-48-127-8L0X.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=335707 loop_end=382827 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-49-127-04GH.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=308834 loop_end=372512 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-50-127-O122.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255646 loop_end=297625 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-51-127-MW68.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=334651 loop_end=382816 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-52-127-63X5.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=236705 loop_end=372651 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-53-127-5OC8.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=235590 loop_end=383958 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-54-127-CJMP.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289908 loop_end=349326 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-55-127-31M6.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=296847 loop_end=341850 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-56-127-D8NV.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=250075 loop_end=378817 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-57-127-TGNN.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285847 loop_end=363757 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-58-127-VHOQ.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=303243 loop_end=361757 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-59-127-B5G8.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254248 loop_end=367775 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-60-127-9B3S.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=210704 loop_end=266017 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-61-127-QZT9.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=225388 loop_end=277577 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-62-127-12RZ.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=240821 loop_end=311002 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-63-127-KHLH.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285592 loop_end=360389 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-64-127-TLI9.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239073 loop_end=297530 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-65-127-4J79.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=212586 loop_end=257762 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-66-127-8DLH.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271416 loop_end=384785 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-67-127-6IFI.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=283845 loop_end=332990 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-68-127-UYA6.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287536 loop_end=398302 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-69-127-68VP.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=303190 loop_end=385855 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-70-127-E4SH.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=321319 loop_end=365493 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-71-127-TISE.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=209689 loop_end=334795 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-72-127-KB4E.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=215714 loop_end=370657 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-73-127-E4RT.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=210298 loop_end=365249 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-74-127-G13W.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=281592 loop_end=322615 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-75-127-FE11.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=214015 loop_end=299210 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-76-127-ALRN.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=321387 loop_end=363241 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-77-127-7HHC.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=343323 loop_end=396643 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-78-127-2BRY.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=315746 loop_end=396865 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-79-127-15YI.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=234028 loop_end=385381 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-80-127-9IK9.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=324684 loop_end=394357 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-81-127-AW9D.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=213200 loop_end=385885 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-82-127-YZSV.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=298633 loop_end=396935 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-83-127-8PML.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=332029 loop_end=375978 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-84-127-0WY6.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=207456 loop_end=361098 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-85-127-6SE6.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=234791 loop_end=388521 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-86-127-6644.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=228643 loop_end=398349 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-87-127-VS4T.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=268048 loop_end=396550 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-88-127-TB91.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=216210 loop_end=387056 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-89-127-CU1S.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257131 loop_end=301988 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-90-127-GUA3.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=309924 loop_end=349903 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-91-127-QCHY.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=210988 loop_end=273623 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-92-127-BA3F.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=233741 loop_end=287059 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-93-127-IB13.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=223740 loop_end=362078 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-94-127-EYRV.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=326674 loop_end=396084 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-95-127-124U.aif
-<group> key=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=294719 loop_end=340038 sample=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/Organic chord-96-127-2S61.aif
+<control>
+default_path=../Audio/MFB Kraftzwerg  - Organic chord-SAMPLES/
+
+<group>        // Organic chord
+<region> sample=Organic chord-36-127-UXDF.aif key=36 lokey=36 hikey=36 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=253602 loop_end=383729
+<region> sample=Organic chord-37-127-8V8E.aif key=37 lokey=37 hikey=37 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=243826 loop_end=284756
+<region> sample=Organic chord-38-127-KIWP.aif key=38 lokey=38 hikey=38 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=208820 loop_end=374347
+<region> sample=Organic chord-39-127-28HN.aif key=39 lokey=39 hikey=39 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=287089 loop_end=359864
+<region> sample=Organic chord-40-127-ZZIK.aif key=40 lokey=40 hikey=40 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=246651 loop_end=315324
+<region> sample=Organic chord-41-127-BN2V.aif key=41 lokey=41 hikey=41 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=238706 loop_end=303454
+<region> sample=Organic chord-42-127-G21B.aif key=42 lokey=42 hikey=42 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=304106 loop_end=374808
+<region> sample=Organic chord-43-127-Q29B.aif key=43 lokey=43 hikey=43 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=295647 loop_end=347202
+<region> sample=Organic chord-44-127-07I1.aif key=44 lokey=44 hikey=44 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=324689 loop_end=379052
+<region> sample=Organic chord-45-127-ADIJ.aif key=45 lokey=45 hikey=45 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=332660 loop_end=392070
+<region> sample=Organic chord-46-127-G1VU.aif key=46 lokey=46 hikey=46 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=260954 loop_end=304906
+<region> sample=Organic chord-47-127-AF35.aif key=47 lokey=47 hikey=47 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=252593 loop_end=328340
+<region> sample=Organic chord-48-127-8L0X.aif key=48 lokey=48 hikey=48 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=275461 loop_end=386086
+<region> sample=Organic chord-49-127-04GH.aif key=49 lokey=49 hikey=49 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=335707 loop_end=382828
+<region> sample=Organic chord-50-127-O122.aif key=50 lokey=50 hikey=50 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=308834 loop_end=372513
+<region> sample=Organic chord-51-127-MW68.aif key=51 lokey=51 hikey=51 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=255646 loop_end=297626
+<region> sample=Organic chord-52-127-63X5.aif key=52 lokey=52 hikey=52 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=334651 loop_end=382817
+<region> sample=Organic chord-53-127-5OC8.aif key=53 lokey=53 hikey=53 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=236705 loop_end=372652
+<region> sample=Organic chord-54-127-CJMP.aif key=54 lokey=54 hikey=54 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=235590 loop_end=383959
+<region> sample=Organic chord-55-127-31M6.aif key=55 lokey=55 hikey=55 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=289908 loop_end=349327
+<region> sample=Organic chord-56-127-D8NV.aif key=56 lokey=56 hikey=56 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=296847 loop_end=341851
+<region> sample=Organic chord-57-127-TGNN.aif key=57 lokey=57 hikey=57 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=250075 loop_end=378818
+<region> sample=Organic chord-58-127-VHOQ.aif key=58 lokey=58 hikey=58 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=285847 loop_end=363758
+<region> sample=Organic chord-59-127-B5G8.aif key=59 lokey=59 hikey=59 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=303243 loop_end=361758
+<region> sample=Organic chord-60-127-9B3S.aif key=60 lokey=60 hikey=60 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=254248 loop_end=367776
+<region> sample=Organic chord-61-127-QZT9.aif key=61 lokey=61 hikey=61 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=210704 loop_end=266018
+<region> sample=Organic chord-62-127-12RZ.aif key=62 lokey=62 hikey=62 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=225388 loop_end=277578
+<region> sample=Organic chord-63-127-KHLH.aif key=63 lokey=63 hikey=63 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=240821 loop_end=311003
+<region> sample=Organic chord-64-127-TLI9.aif key=64 lokey=64 hikey=64 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=285592 loop_end=360390
+<region> sample=Organic chord-65-127-4J79.aif key=65 lokey=65 hikey=65 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=239073 loop_end=297531
+<region> sample=Organic chord-66-127-8DLH.aif key=66 lokey=66 hikey=66 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=212586 loop_end=257763
+<region> sample=Organic chord-67-127-6IFI.aif key=67 lokey=67 hikey=67 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=271416 loop_end=384786
+<region> sample=Organic chord-68-127-UYA6.aif key=68 lokey=68 hikey=68 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=283845 loop_end=332991
+<region> sample=Organic chord-69-127-68VP.aif key=69 lokey=69 hikey=69 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=287536 loop_end=398303
+<region> sample=Organic chord-70-127-E4SH.aif key=70 lokey=70 hikey=70 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=303190 loop_end=385856
+<region> sample=Organic chord-71-127-TISE.aif key=71 lokey=71 hikey=71 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=321319 loop_end=365494
+<region> sample=Organic chord-72-127-KB4E.aif key=72 lokey=72 hikey=72 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=209689 loop_end=334796
+<region> sample=Organic chord-73-127-E4RT.aif key=73 lokey=73 hikey=73 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=215714 loop_end=370658
+<region> sample=Organic chord-74-127-G13W.aif key=74 lokey=74 hikey=74 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=210298 loop_end=365250
+<region> sample=Organic chord-75-127-FE11.aif key=75 lokey=75 hikey=75 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=281592 loop_end=322616
+<region> sample=Organic chord-76-127-ALRN.aif key=76 lokey=76 hikey=76 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=214015 loop_end=299211
+<region> sample=Organic chord-77-127-7HHC.aif key=77 lokey=77 hikey=77 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=321387 loop_end=363242
+<region> sample=Organic chord-78-127-2BRY.aif key=78 lokey=78 hikey=78 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=343323 loop_end=396644
+<region> sample=Organic chord-79-127-15YI.aif key=79 lokey=79 hikey=79 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=315746 loop_end=396866
+<region> sample=Organic chord-80-127-9IK9.aif key=80 lokey=80 hikey=80 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=234028 loop_end=385382
+<region> sample=Organic chord-81-127-AW9D.aif key=81 lokey=81 hikey=81 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=324684 loop_end=394358
+<region> sample=Organic chord-82-127-YZSV.aif key=82 lokey=82 hikey=82 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=213200 loop_end=385886
+<region> sample=Organic chord-83-127-8PML.aif key=83 lokey=83 hikey=83 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=298633 loop_end=396936
+<region> sample=Organic chord-84-127-0WY6.aif key=84 lokey=84 hikey=84 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=332029 loop_end=375979
+<region> sample=Organic chord-85-127-6SE6.aif key=85 lokey=85 hikey=85 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=207456 loop_end=361099
+<region> sample=Organic chord-86-127-6644.aif key=86 lokey=86 hikey=86 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=234791 loop_end=388522
+<region> sample=Organic chord-87-127-VS4T.aif key=87 lokey=87 hikey=87 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=228643 loop_end=398350
+<region> sample=Organic chord-88-127-TB91.aif key=88 lokey=88 hikey=88 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=268048 loop_end=396551
+<region> sample=Organic chord-89-127-CU1S.aif key=89 lokey=89 hikey=89 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=216210 loop_end=387057
+<region> sample=Organic chord-90-127-GUA3.aif key=90 lokey=90 hikey=90 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=257131 loop_end=301989
+<region> sample=Organic chord-91-127-QCHY.aif key=91 lokey=91 hikey=91 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=309924 loop_end=349904
+<region> sample=Organic chord-92-127-BA3F.aif key=92 lokey=92 hikey=92 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=210988 loop_end=273624
+<region> sample=Organic chord-93-127-IB13.aif key=93 lokey=93 hikey=93 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=233741 loop_end=287060
+<region> sample=Organic chord-94-127-EYRV.aif key=94 lokey=94 hikey=94 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=223740 loop_end=362079
+<region> sample=Organic chord-95-127-124U.aif key=95 lokey=95 hikey=95 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=326674 loop_end=396085
+<region> sample=Organic chord-96-127-2S61.aif key=96 lokey=96 hikey=96 lovel=1 hivel=127 amp_veltrack=20 loop_mode=loop_continuous loop_start=294719 loop_end=340039

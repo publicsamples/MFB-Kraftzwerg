@@ -1,124 +1,68 @@
-// this file was generated from MFB Kraftzwerg  - Log.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - MFB Kraftzwerg  - Log.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=313 end=368793 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-36-127.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=585 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-37-127.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=464 end=384629 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-38-127.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=265 end=372476 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-39-127.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=265 end=386543 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-40-127.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=681 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-41-127.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=329 end=387906 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-42-127.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=489 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-43-127.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=329 end=369879 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-44-127.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=457 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-45-127.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=489 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-46-127.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=233 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-47-127.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=457 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-48-127.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=329 end=382685 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-49-127.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=425 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-50-127.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=233 end=373078 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-51-127.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=617 end=381219 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-52-127.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=508 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-53-127.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=265 end=381562 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-54-127.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=617 end=377242 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-55-127.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=457 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-56-127.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=553 end=380915 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-57-127.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=361 end=380644 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-58-127.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=521 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-59-127.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=585 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-60-127.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=560 end=379718 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-61-127.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=545 end=380245 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-62-127.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=265 end=380617 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-63-127.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=457 end=382163 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-64-127.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=265 end=379646 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-65-127.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=511 end=382003 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-66-127.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=489 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-67-127.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=258 end=379679 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-68-127.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=489 end=377845 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-69-127.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=513 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-70-127.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=233 end=384605 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-71-127.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=489 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-72-127.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=201 end=377898 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-73-127.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=681 end=380792 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-74-127.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=544 end=377720 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-75-127.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=742 end=381181 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-76-127.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=457 end=380317 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-77-127.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=233 end=378350 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-78-127.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=297 end=379377 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-79-127.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=292 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-80-127.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=619 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-81-127.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=553 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-82-127.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=676 end=378364 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-83-127.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=374 end=379069 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-84-127.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=457 end=377836 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-85-127.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=519 end=381393 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-86-127.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=521 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-87-127.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=711 end=380596 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-88-127.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=681 end=379000 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-89-127.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=361 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-90-127.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=516 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-91-127.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=261 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-92-127.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=591 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-93-127.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=745 end=380030 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-94-127.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=489 end=380123 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-95-127.aif
-<group> key=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=649 end=380575 sample=../Audio/MFB Kraftzwerg  - Log-SAMPLES/Log-96-127.aif
+<control>
+default_path=../Audio/MFB Kraftzwerg  - Log-SAMPLES/
+
+<group>        // Log
+<region> sample=Log-36-127.aif key=36 lokey=36 hikey=36 lovel=1 hivel=127 amp_veltrack=20 offset=313 end=368793 loop_mode=no_loop
+<region> sample=Log-37-127.aif key=37 lokey=37 hikey=37 lovel=1 hivel=127 amp_veltrack=20 offset=585 loop_mode=no_loop
+<region> sample=Log-38-127.aif key=38 lokey=38 hikey=38 lovel=1 hivel=127 amp_veltrack=20 offset=464 end=384629 loop_mode=no_loop
+<region> sample=Log-39-127.aif key=39 lokey=39 hikey=39 lovel=1 hivel=127 amp_veltrack=20 offset=265 end=372476 loop_mode=no_loop
+<region> sample=Log-40-127.aif key=40 lokey=40 hikey=40 lovel=1 hivel=127 amp_veltrack=20 offset=265 end=386543 loop_mode=no_loop
+<region> sample=Log-41-127.aif key=41 lokey=41 hikey=41 lovel=1 hivel=127 amp_veltrack=20 offset=681 loop_mode=no_loop
+<region> sample=Log-42-127.aif key=42 lokey=42 hikey=42 lovel=1 hivel=127 amp_veltrack=20 offset=329 end=387906 loop_mode=no_loop
+<region> sample=Log-43-127.aif key=43 lokey=43 hikey=43 lovel=1 hivel=127 amp_veltrack=20 offset=489 loop_mode=no_loop
+<region> sample=Log-44-127.aif key=44 lokey=44 hikey=44 lovel=1 hivel=127 amp_veltrack=20 offset=329 end=369879 loop_mode=no_loop
+<region> sample=Log-45-127.aif key=45 lokey=45 hikey=45 lovel=1 hivel=127 amp_veltrack=20 offset=457 loop_mode=no_loop
+<region> sample=Log-46-127.aif key=46 lokey=46 hikey=46 lovel=1 hivel=127 amp_veltrack=20 offset=489 loop_mode=no_loop
+<region> sample=Log-47-127.aif key=47 lokey=47 hikey=47 lovel=1 hivel=127 amp_veltrack=20 offset=233 loop_mode=no_loop
+<region> sample=Log-48-127.aif key=48 lokey=48 hikey=48 lovel=1 hivel=127 amp_veltrack=20 offset=457 loop_mode=no_loop
+<region> sample=Log-49-127.aif key=49 lokey=49 hikey=49 lovel=1 hivel=127 amp_veltrack=20 offset=329 end=382685 loop_mode=no_loop
+<region> sample=Log-50-127.aif key=50 lokey=50 hikey=50 lovel=1 hivel=127 amp_veltrack=20 offset=425 loop_mode=no_loop
+<region> sample=Log-51-127.aif key=51 lokey=51 hikey=51 lovel=1 hivel=127 amp_veltrack=20 offset=233 end=373078 loop_mode=no_loop
+<region> sample=Log-52-127.aif key=52 lokey=52 hikey=52 lovel=1 hivel=127 amp_veltrack=20 offset=617 end=381219 loop_mode=no_loop
+<region> sample=Log-53-127.aif key=53 lokey=53 hikey=53 lovel=1 hivel=127 amp_veltrack=20 offset=508 loop_mode=no_loop
+<region> sample=Log-54-127.aif key=54 lokey=54 hikey=54 lovel=1 hivel=127 amp_veltrack=20 offset=265 end=381562 loop_mode=no_loop
+<region> sample=Log-55-127.aif key=55 lokey=55 hikey=55 lovel=1 hivel=127 amp_veltrack=20 offset=617 end=377242 loop_mode=no_loop
+<region> sample=Log-56-127.aif key=56 lokey=56 hikey=56 lovel=1 hivel=127 amp_veltrack=20 offset=457 loop_mode=no_loop
+<region> sample=Log-57-127.aif key=57 lokey=57 hikey=57 lovel=1 hivel=127 amp_veltrack=20 offset=553 end=380915 loop_mode=no_loop
+<region> sample=Log-58-127.aif key=58 lokey=58 hikey=58 lovel=1 hivel=127 amp_veltrack=20 offset=361 end=380644 loop_mode=no_loop
+<region> sample=Log-59-127.aif key=59 lokey=59 hikey=59 lovel=1 hivel=127 amp_veltrack=20 offset=521 loop_mode=no_loop
+<region> sample=Log-60-127.aif key=60 lokey=60 hikey=60 lovel=1 hivel=127 amp_veltrack=20 offset=585 loop_mode=no_loop
+<region> sample=Log-61-127.aif key=61 lokey=61 hikey=61 lovel=1 hivel=127 amp_veltrack=20 offset=560 end=379718 loop_mode=no_loop
+<region> sample=Log-62-127.aif key=62 lokey=62 hikey=62 lovel=1 hivel=127 amp_veltrack=20 offset=545 end=380245 loop_mode=no_loop
+<region> sample=Log-63-127.aif key=63 lokey=63 hikey=63 lovel=1 hivel=127 amp_veltrack=20 offset=265 end=380617 loop_mode=no_loop
+<region> sample=Log-64-127.aif key=64 lokey=64 hikey=64 lovel=1 hivel=127 amp_veltrack=20 offset=457 end=382163 loop_mode=no_loop
+<region> sample=Log-65-127.aif key=65 lokey=65 hikey=65 lovel=1 hivel=127 amp_veltrack=20 offset=265 end=379646 loop_mode=no_loop
+<region> sample=Log-66-127.aif key=66 lokey=66 hikey=66 lovel=1 hivel=127 amp_veltrack=20 offset=511 end=382003 loop_mode=no_loop
+<region> sample=Log-67-127.aif key=67 lokey=67 hikey=67 lovel=1 hivel=127 amp_veltrack=20 offset=489 loop_mode=no_loop
+<region> sample=Log-68-127.aif key=68 lokey=68 hikey=68 lovel=1 hivel=127 amp_veltrack=20 offset=258 end=379679 loop_mode=no_loop
+<region> sample=Log-69-127.aif key=69 lokey=69 hikey=69 lovel=1 hivel=127 amp_veltrack=20 offset=489 end=377845 loop_mode=no_loop
+<region> sample=Log-70-127.aif key=70 lokey=70 hikey=70 lovel=1 hivel=127 amp_veltrack=20 offset=513 loop_mode=no_loop
+<region> sample=Log-71-127.aif key=71 lokey=71 hikey=71 lovel=1 hivel=127 amp_veltrack=20 offset=233 end=384605 loop_mode=no_loop
+<region> sample=Log-72-127.aif key=72 lokey=72 hikey=72 lovel=1 hivel=127 amp_veltrack=20 offset=489 loop_mode=no_loop
+<region> sample=Log-73-127.aif key=73 lokey=73 hikey=73 lovel=1 hivel=127 amp_veltrack=20 offset=201 end=377898 loop_mode=no_loop
+<region> sample=Log-74-127.aif key=74 lokey=74 hikey=74 lovel=1 hivel=127 amp_veltrack=20 offset=681 end=380792 loop_mode=no_loop
+<region> sample=Log-75-127.aif key=75 lokey=75 hikey=75 lovel=1 hivel=127 amp_veltrack=20 offset=544 end=377720 loop_mode=no_loop
+<region> sample=Log-76-127.aif key=76 lokey=76 hikey=76 lovel=1 hivel=127 amp_veltrack=20 offset=742 end=381181 loop_mode=no_loop
+<region> sample=Log-77-127.aif key=77 lokey=77 hikey=77 lovel=1 hivel=127 amp_veltrack=20 offset=457 end=380317 loop_mode=no_loop
+<region> sample=Log-78-127.aif key=78 lokey=78 hikey=78 lovel=1 hivel=127 amp_veltrack=20 offset=233 end=378350 loop_mode=no_loop
+<region> sample=Log-79-127.aif key=79 lokey=79 hikey=79 lovel=1 hivel=127 amp_veltrack=20 offset=297 end=379377 loop_mode=no_loop
+<region> sample=Log-80-127.aif key=80 lokey=80 hikey=80 lovel=1 hivel=127 amp_veltrack=20 offset=292 loop_mode=no_loop
+<region> sample=Log-81-127.aif key=81 lokey=81 hikey=81 lovel=1 hivel=127 amp_veltrack=20 offset=619 loop_mode=no_loop
+<region> sample=Log-82-127.aif key=82 lokey=82 hikey=82 lovel=1 hivel=127 amp_veltrack=20 offset=553 loop_mode=no_loop
+<region> sample=Log-83-127.aif key=83 lokey=83 hikey=83 lovel=1 hivel=127 amp_veltrack=20 offset=676 end=378364 loop_mode=no_loop
+<region> sample=Log-84-127.aif key=84 lokey=84 hikey=84 lovel=1 hivel=127 amp_veltrack=20 offset=374 end=379069 loop_mode=no_loop
+<region> sample=Log-85-127.aif key=85 lokey=85 hikey=85 lovel=1 hivel=127 amp_veltrack=20 offset=457 end=377836 loop_mode=no_loop
+<region> sample=Log-86-127.aif key=86 lokey=86 hikey=86 lovel=1 hivel=127 amp_veltrack=20 offset=519 end=381393 loop_mode=no_loop
+<region> sample=Log-87-127.aif key=87 lokey=87 hikey=87 lovel=1 hivel=127 amp_veltrack=20 offset=521 loop_mode=no_loop
+<region> sample=Log-88-127.aif key=88 lokey=88 hikey=88 lovel=1 hivel=127 amp_veltrack=20 offset=711 end=380596 loop_mode=no_loop
+<region> sample=Log-89-127.aif key=89 lokey=89 hikey=89 lovel=1 hivel=127 amp_veltrack=20 offset=681 end=379000 loop_mode=no_loop
+<region> sample=Log-90-127.aif key=90 lokey=90 hikey=90 lovel=1 hivel=127 amp_veltrack=20 offset=361 loop_mode=no_loop
+<region> sample=Log-91-127.aif key=91 lokey=91 hikey=91 lovel=1 hivel=127 amp_veltrack=20 offset=516 loop_mode=no_loop
+<region> sample=Log-92-127.aif key=92 lokey=92 hikey=92 lovel=1 hivel=127 amp_veltrack=20 offset=261 loop_mode=no_loop
+<region> sample=Log-93-127.aif key=93 lokey=93 hikey=93 lovel=1 hivel=127 amp_veltrack=20 offset=591 loop_mode=no_loop
+<region> sample=Log-94-127.aif key=94 lokey=94 hikey=94 lovel=1 hivel=127 amp_veltrack=20 offset=745 end=380030 loop_mode=no_loop
+<region> sample=Log-95-127.aif key=95 lokey=95 hikey=95 lovel=1 hivel=127 amp_veltrack=20 offset=489 end=380123 loop_mode=no_loop
+<region> sample=Log-96-127.aif key=96 lokey=96 hikey=96 lovel=1 hivel=127 amp_veltrack=20 offset=649 end=380575 loop_mode=no_loop

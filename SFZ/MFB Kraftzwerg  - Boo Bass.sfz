@@ -1,124 +1,68 @@
-// this file was generated from MFB Kraftzwerg  - Boo Bass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - MFB Kraftzwerg  - Boo Bass.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=712 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-36-127.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=412 end=211586 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-37-127.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=265 end=210908 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-38-127.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=584 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-39-127.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=305 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-40-127.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=688 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-41-127.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=520 end=209919 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-42-127.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=507 end=209441 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-43-127.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=336 end=209941 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-44-127.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=555 end=212878 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-45-127.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=26 end=209449 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-46-127.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=600 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-47-127.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=448 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-48-127.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=620 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-49-127.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=340 end=208723 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-50-127.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=692 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-51-127.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=403 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-52-127.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=489 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-53-127.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=595 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-54-127.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=497 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-55-127.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=303 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-56-127.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=596 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-57-127.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=232 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-58-127.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=625 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-59-127.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=314 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-60-127.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=624 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-61-127.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=596 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-62-127.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=337 end=208153 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-63-127.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=514 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-64-127.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=432 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-65-127.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=339 end=207798 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-66-127.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=302 end=210698 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-67-127.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=240 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-68-127.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=529 end=210268 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-69-127.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=588 end=210183 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-70-127.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=653 end=208809 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-71-127.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=360 end=208372 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-72-127.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=722 end=209191 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-73-127.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=339 end=209672 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-74-127.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=534 end=208832 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-75-127.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=140 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-76-127.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=238 end=209664 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-77-127.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=498 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-78-127.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=242 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-79-127.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=305 end=208136 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-80-127.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=494 end=208285 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-81-127.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=210 end=208298 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-82-127.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=173 end=207641 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-83-127.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=240 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-84-127.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=242 end=207828 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-85-127.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=720 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-86-127.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=242 end=208685 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-87-127.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=722 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-88-127.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=274 end=209348 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-89-127.aif
-<group> key=90 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=567 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-90-127.aif
-<group> key=91 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=558 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-91-127.aif
-<group> key=92 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=232 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-92-127.aif
-<group> key=93 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=430 end=208786 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-93-127.aif
-<group> key=94 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=562 end=207616 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-94-127.aif
-<group> key=95 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=199 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-95-127.aif
-<group> key=96 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=145 sample=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/Boo Bass-96-127.aif
+<control>
+default_path=../Audio/MFB Kraftzwerg  - Boo Bass-SAMPLES/
+
+<group>        // Boo Bass
+<region> sample=Boo Bass-36-127.aif key=36 lokey=36 hikey=36 lovel=1 hivel=127 amp_veltrack=20 offset=712 loop_mode=no_loop
+<region> sample=Boo Bass-37-127.aif key=37 lokey=37 hikey=37 lovel=1 hivel=127 amp_veltrack=20 offset=412 end=211586 loop_mode=no_loop
+<region> sample=Boo Bass-38-127.aif key=38 lokey=38 hikey=38 lovel=1 hivel=127 amp_veltrack=20 offset=265 end=210908 loop_mode=no_loop
+<region> sample=Boo Bass-39-127.aif key=39 lokey=39 hikey=39 lovel=1 hivel=127 amp_veltrack=20 offset=584 loop_mode=no_loop
+<region> sample=Boo Bass-40-127.aif key=40 lokey=40 hikey=40 lovel=1 hivel=127 amp_veltrack=20 offset=305 loop_mode=no_loop
+<region> sample=Boo Bass-41-127.aif key=41 lokey=41 hikey=41 lovel=1 hivel=127 amp_veltrack=20 offset=688 loop_mode=no_loop
+<region> sample=Boo Bass-42-127.aif key=42 lokey=42 hikey=42 lovel=1 hivel=127 amp_veltrack=20 offset=520 end=209919 loop_mode=no_loop
+<region> sample=Boo Bass-43-127.aif key=43 lokey=43 hikey=43 lovel=1 hivel=127 amp_veltrack=20 offset=507 end=209441 loop_mode=no_loop
+<region> sample=Boo Bass-44-127.aif key=44 lokey=44 hikey=44 lovel=1 hivel=127 amp_veltrack=20 offset=336 end=209941 loop_mode=no_loop
+<region> sample=Boo Bass-45-127.aif key=45 lokey=45 hikey=45 lovel=1 hivel=127 amp_veltrack=20 offset=555 end=212878 loop_mode=no_loop
+<region> sample=Boo Bass-46-127.aif key=46 lokey=46 hikey=46 lovel=1 hivel=127 amp_veltrack=20 offset=26 end=209449 loop_mode=no_loop
+<region> sample=Boo Bass-47-127.aif key=47 lokey=47 hikey=47 lovel=1 hivel=127 amp_veltrack=20 offset=600 loop_mode=no_loop
+<region> sample=Boo Bass-48-127.aif key=48 lokey=48 hikey=48 lovel=1 hivel=127 amp_veltrack=20 offset=448 loop_mode=no_loop
+<region> sample=Boo Bass-49-127.aif key=49 lokey=49 hikey=49 lovel=1 hivel=127 amp_veltrack=20 offset=620 loop_mode=no_loop
+<region> sample=Boo Bass-50-127.aif key=50 lokey=50 hikey=50 lovel=1 hivel=127 amp_veltrack=20 offset=340 end=208723 loop_mode=no_loop
+<region> sample=Boo Bass-51-127.aif key=51 lokey=51 hikey=51 lovel=1 hivel=127 amp_veltrack=20 offset=692 loop_mode=no_loop
+<region> sample=Boo Bass-52-127.aif key=52 lokey=52 hikey=52 lovel=1 hivel=127 amp_veltrack=20 offset=403 loop_mode=no_loop
+<region> sample=Boo Bass-53-127.aif key=53 lokey=53 hikey=53 lovel=1 hivel=127 amp_veltrack=20 offset=489 loop_mode=no_loop
+<region> sample=Boo Bass-54-127.aif key=54 lokey=54 hikey=54 lovel=1 hivel=127 amp_veltrack=20 offset=595 loop_mode=no_loop
+<region> sample=Boo Bass-55-127.aif key=55 lokey=55 hikey=55 lovel=1 hivel=127 amp_veltrack=20 offset=497 loop_mode=no_loop
+<region> sample=Boo Bass-56-127.aif key=56 lokey=56 hikey=56 lovel=1 hivel=127 amp_veltrack=20 offset=303 loop_mode=no_loop
+<region> sample=Boo Bass-57-127.aif key=57 lokey=57 hikey=57 lovel=1 hivel=127 amp_veltrack=20 offset=596 loop_mode=no_loop
+<region> sample=Boo Bass-58-127.aif key=58 lokey=58 hikey=58 lovel=1 hivel=127 amp_veltrack=20 offset=232 loop_mode=no_loop
+<region> sample=Boo Bass-59-127.aif key=59 lokey=59 hikey=59 lovel=1 hivel=127 amp_veltrack=20 offset=625 loop_mode=no_loop
+<region> sample=Boo Bass-60-127.aif key=60 lokey=60 hikey=60 lovel=1 hivel=127 amp_veltrack=20 offset=314 loop_mode=no_loop
+<region> sample=Boo Bass-61-127.aif key=61 lokey=61 hikey=61 lovel=1 hivel=127 amp_veltrack=20 offset=624 loop_mode=no_loop
+<region> sample=Boo Bass-62-127.aif key=62 lokey=62 hikey=62 lovel=1 hivel=127 amp_veltrack=20 offset=596 loop_mode=no_loop
+<region> sample=Boo Bass-63-127.aif key=63 lokey=63 hikey=63 lovel=1 hivel=127 amp_veltrack=20 offset=337 end=208153 loop_mode=no_loop
+<region> sample=Boo Bass-64-127.aif key=64 lokey=64 hikey=64 lovel=1 hivel=127 amp_veltrack=20 offset=514 loop_mode=no_loop
+<region> sample=Boo Bass-65-127.aif key=65 lokey=65 hikey=65 lovel=1 hivel=127 amp_veltrack=20 offset=432 loop_mode=no_loop
+<region> sample=Boo Bass-66-127.aif key=66 lokey=66 hikey=66 lovel=1 hivel=127 amp_veltrack=20 offset=339 end=207798 loop_mode=no_loop
+<region> sample=Boo Bass-67-127.aif key=67 lokey=67 hikey=67 lovel=1 hivel=127 amp_veltrack=20 offset=302 end=210698 loop_mode=no_loop
+<region> sample=Boo Bass-68-127.aif key=68 lokey=68 hikey=68 lovel=1 hivel=127 amp_veltrack=20 offset=240 loop_mode=no_loop
+<region> sample=Boo Bass-69-127.aif key=69 lokey=69 hikey=69 lovel=1 hivel=127 amp_veltrack=20 offset=529 end=210268 loop_mode=no_loop
+<region> sample=Boo Bass-70-127.aif key=70 lokey=70 hikey=70 lovel=1 hivel=127 amp_veltrack=20 offset=588 end=210183 loop_mode=no_loop
+<region> sample=Boo Bass-71-127.aif key=71 lokey=71 hikey=71 lovel=1 hivel=127 amp_veltrack=20 offset=653 end=208809 loop_mode=no_loop
+<region> sample=Boo Bass-72-127.aif key=72 lokey=72 hikey=72 lovel=1 hivel=127 amp_veltrack=20 offset=360 end=208372 loop_mode=no_loop
+<region> sample=Boo Bass-73-127.aif key=73 lokey=73 hikey=73 lovel=1 hivel=127 amp_veltrack=20 offset=722 end=209191 loop_mode=no_loop
+<region> sample=Boo Bass-74-127.aif key=74 lokey=74 hikey=74 lovel=1 hivel=127 amp_veltrack=20 offset=339 end=209672 loop_mode=no_loop
+<region> sample=Boo Bass-75-127.aif key=75 lokey=75 hikey=75 lovel=1 hivel=127 amp_veltrack=20 offset=534 end=208832 loop_mode=no_loop
+<region> sample=Boo Bass-76-127.aif key=76 lokey=76 hikey=76 lovel=1 hivel=127 amp_veltrack=20 offset=140 loop_mode=no_loop
+<region> sample=Boo Bass-77-127.aif key=77 lokey=77 hikey=77 lovel=1 hivel=127 amp_veltrack=20 offset=238 end=209664 loop_mode=no_loop
+<region> sample=Boo Bass-78-127.aif key=78 lokey=78 hikey=78 lovel=1 hivel=127 amp_veltrack=20 offset=498 loop_mode=no_loop
+<region> sample=Boo Bass-79-127.aif key=79 lokey=79 hikey=79 lovel=1 hivel=127 amp_veltrack=20 offset=242 loop_mode=no_loop
+<region> sample=Boo Bass-80-127.aif key=80 lokey=80 hikey=80 lovel=1 hivel=127 amp_veltrack=20 offset=305 end=208136 loop_mode=no_loop
+<region> sample=Boo Bass-81-127.aif key=81 lokey=81 hikey=81 lovel=1 hivel=127 amp_veltrack=20 offset=494 end=208285 loop_mode=no_loop
+<region> sample=Boo Bass-82-127.aif key=82 lokey=82 hikey=82 lovel=1 hivel=127 amp_veltrack=20 offset=210 end=208298 loop_mode=no_loop
+<region> sample=Boo Bass-83-127.aif key=83 lokey=83 hikey=83 lovel=1 hivel=127 amp_veltrack=20 offset=173 end=207641 loop_mode=no_loop
+<region> sample=Boo Bass-84-127.aif key=84 lokey=84 hikey=84 lovel=1 hivel=127 amp_veltrack=20 offset=240 loop_mode=no_loop
+<region> sample=Boo Bass-85-127.aif key=85 lokey=85 hikey=85 lovel=1 hivel=127 amp_veltrack=20 offset=242 end=207828 loop_mode=no_loop
+<region> sample=Boo Bass-86-127.aif key=86 lokey=86 hikey=86 lovel=1 hivel=127 amp_veltrack=20 offset=720 loop_mode=no_loop
+<region> sample=Boo Bass-87-127.aif key=87 lokey=87 hikey=87 lovel=1 hivel=127 amp_veltrack=20 offset=242 end=208685 loop_mode=no_loop
+<region> sample=Boo Bass-88-127.aif key=88 lokey=88 hikey=88 lovel=1 hivel=127 amp_veltrack=20 offset=722 loop_mode=no_loop
+<region> sample=Boo Bass-89-127.aif key=89 lokey=89 hikey=89 lovel=1 hivel=127 amp_veltrack=20 offset=274 end=209348 loop_mode=no_loop
+<region> sample=Boo Bass-90-127.aif key=90 lokey=90 hikey=90 lovel=1 hivel=127 amp_veltrack=20 offset=567 loop_mode=no_loop
+<region> sample=Boo Bass-91-127.aif key=91 lokey=91 hikey=91 lovel=1 hivel=127 amp_veltrack=20 offset=558 loop_mode=no_loop
+<region> sample=Boo Bass-92-127.aif key=92 lokey=92 hikey=92 lovel=1 hivel=127 amp_veltrack=20 offset=232 loop_mode=no_loop
+<region> sample=Boo Bass-93-127.aif key=93 lokey=93 hikey=93 lovel=1 hivel=127 amp_veltrack=20 offset=430 end=208786 loop_mode=no_loop
+<region> sample=Boo Bass-94-127.aif key=94 lokey=94 hikey=94 lovel=1 hivel=127 amp_veltrack=20 offset=562 end=207616 loop_mode=no_loop
+<region> sample=Boo Bass-95-127.aif key=95 lokey=95 hikey=95 lovel=1 hivel=127 amp_veltrack=20 offset=199 loop_mode=no_loop
+<region> sample=Boo Bass-96-127.aif key=96 lokey=96 hikey=96 lovel=1 hivel=127 amp_veltrack=20 offset=145 loop_mode=no_loop
