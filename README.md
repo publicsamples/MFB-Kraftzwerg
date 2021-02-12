@@ -7,6 +7,7 @@ The Kraftzwerg is a tiny semi-modular device. It uses the basic Minimoog design 
 -   **Formats:** EXS24, Kontakt & SFZ
 -   **Approx Size:** 1GB
 -   **Info:** [encyclotronic.com](https://encyclotronic.com/synthesizers/mfb/kraftzwerg-ii-r1159/)
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/kraftzwerg.html)
 
  **This collection requires you to download the audio seperately**
 
