@@ -9,7 +9,7 @@ The Kraftzwerg is a tiny semi-modular device. It uses the basic Minimoog design 
 -   **Info:** [encyclotronic.com](https://encyclotronic.com/synthesizers/mfb/kraftzwerg-ii-r1159/)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/kraftzwerg.html)
 
-**[Download Audio](https://github.com/publicsamples/MFB-Kraftzwerg/Public/releases/tag/1.0)**
+**[Download Audio](https://github.com/publicsamples/MFB-Kraftzwerg/releases/tag/1.0)**
 
 # Loading
 
